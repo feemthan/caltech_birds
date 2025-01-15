@@ -172,6 +172,14 @@ cython_debug/
 
 
 # Dataset and models
-./images/*
-image.tgz
+images.tgz
+lists.tgz
+images/*
+lists/*
 *.pth
+
+# Output
+output.zip
+
+# logs
+logs/*

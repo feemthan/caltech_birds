@@ -1,0 +1,2287 @@
+Epoch [1/20] Train Loss: 0.8125, Train Acc: 40.00% | Val Loss: 0.4075, Val Acc: 54.94% | Time: 110.75s
+Best model saved with accuracy: 54.94%
+Epoch [1/20] Train Loss: 1.1607, Train Acc: 17.40% | Val Loss: 0.8294, Val Acc: 30.17% | Time: 106.25s
+Best model saved with accuracy: 30.17%
+Epoch [2/20] Train Loss: 0.4340, Train Acc: 77.03% | Val Loss: 0.3970, Val Acc: 63.90% | Time: 105.36s
+Best model saved with accuracy: 63.90%
+Epoch [3/20] Train Loss: 0.0785, Train Acc: 96.60% | Val Loss: 0.3346, Val Acc: 64.82% | Time: 104.34s
+Best model saved with accuracy: 64.82%
+Epoch [4/20] Train Loss: 0.0181, Train Acc: 99.50% | Val Loss: 0.3288, Val Acc: 65.88% | Time: 103.50s
+Best model saved with accuracy: 65.88%
+Epoch [5/20] Train Loss: 0.0078, Train Acc: 99.83% | Val Loss: 0.3108, Val Acc: 67.59% | Time: 103.65s
+Best model saved with accuracy: 67.59%
+Epoch [6/20] Train Loss: 0.0053, Train Acc: 99.63% | Val Loss: 0.3072, Val Acc: 67.19% | Time: 105.00s
+Epoch [7/20] Train Loss: 0.0044, Train Acc: 99.73% | Val Loss: 0.3287, Val Acc: 68.51% | Time: 104.82s
+Best model saved with accuracy: 68.51%
+Epoch [8/20] Train Loss: 0.0033, Train Acc: 99.67% | Val Loss: 0.3130, Val Acc: 69.57% | Time: 103.41s
+Best model saved with accuracy: 69.57%
+Epoch [9/20] Train Loss: 0.0029, Train Acc: 99.77% | Val Loss: 0.3251, Val Acc: 66.40% | Time: 104.52s
+Epoch [10/20] Train Loss: 0.0023, Train Acc: 99.77% | Val Loss: 0.3267, Val Acc: 66.93% | Time: 104.24s
+Epoch [11/20] Train Loss: 0.0020, Train Acc: 99.87% | Val Loss: 0.3107, Val Acc: 68.64% | Time: 104.15s
+Epoch [12/20] Train Loss: 0.0028, Train Acc: 99.73% | Val Loss: 0.3312, Val Acc: 69.17% | Time: 104.09s
+Epoch [13/20] Train Loss: 0.0015, Train Acc: 99.90% | Val Loss: 0.3009, Val Acc: 70.36% | Time: 104.17s
+Best model saved with accuracy: 70.36%
+Epoch [14/20] Train Loss: 0.0014, Train Acc: 99.83% | Val Loss: 0.2912, Val Acc: 69.70% | Time: 104.90s
+Epoch [15/20] Train Loss: 0.0015, Train Acc: 99.83% | Val Loss: 0.3227, Val Acc: 68.91% | Time: 105.44s
+Epoch [16/20] Train Loss: 0.0017, Train Acc: 99.80% | Val Loss: 0.3347, Val Acc: 68.91% | Time: 103.73s
+Epoch [17/20] Train Loss: 0.0019, Train Acc: 99.77% | Val Loss: 0.3421, Val Acc: 68.38% | Time: 105.73s
+Epoch [18/20] Train Loss: 0.0013, Train Acc: 99.80% | Val Loss: 0.3070, Val Acc: 69.43% | Time: 105.22s
+Epoch [19/20] Train Loss: 0.0022, Train Acc: 99.73% | Val Loss: 0.3995, Val Acc: 62.58% | Time: 104.54s
+Epoch [20/20] Train Loss: 0.0027, Train Acc: 99.63% | Val Loss: 0.3662, Val Acc: 65.35% | Time: 106.39s
+Training completed. Best accuracy: 70.36%
+Epoch [1/10] Train Loss: 1.0507, Train Acc: 28.11% | Val Loss: 0.6063, Val Acc: 41.77% | Time: 121.94s
+Best model saved with accuracy: 41.77%
+Epoch [2/10] Train Loss: 0.2295, Train Acc: 88.77% | Val Loss: 0.3449, Val Acc: 62.45% | Time: 120.19s
+Best model saved with accuracy: 62.45%
+Epoch [3/10] Train Loss: 0.0293, Train Acc: 99.09% | Val Loss: 0.3171, Val Acc: 65.74% | Time: 123.10s
+Best model saved with accuracy: 65.74%
+Epoch [4/10] Train Loss: 0.0089, Train Acc: 99.79% | Val Loss: 0.3085, Val Acc: 66.80% | Time: 123.94s
+Best model saved with accuracy: 66.80%
+Epoch [5/10] Train Loss: 0.0055, Train Acc: 99.71% | Val Loss: 0.3106, Val Acc: 66.27% | Time: 123.88s
+Epoch [6/10] Train Loss: 0.0034, Train Acc: 99.81% | Val Loss: 0.2917, Val Acc: 69.43% | Time: 125.28s
+Best model saved with accuracy: 69.43%
+Epoch [7/10] Train Loss: 0.0021, Train Acc: 99.89% | Val Loss: 0.3213, Val Acc: 68.51% | Time: 124.77s
+Epoch [8/10] Train Loss: 0.0018, Train Acc: 99.87% | Val Loss: 0.3019, Val Acc: 69.04% | Time: 125.79s
+Epoch [9/10] Train Loss: 0.0017, Train Acc: 99.79% | Val Loss: 0.3181, Val Acc: 69.83% | Time: 125.35s
+Best model saved with accuracy: 69.83%
+Epoch [10/10] Train Loss: 0.0015, Train Acc: 99.84% | Val Loss: 0.3167, Val Acc: 67.98% | Time: 125.80s
+Training completed. Best accuracy: 69.83%
+Epoch [1/10] Train Loss: 1.1858, Train Acc: 11.68% | Val Loss: 0.7535, Val Acc: 32.41% | Time: 126.87s
+Best model saved with accuracy: 32.41%
+Epoch [2/10] Train Loss: 0.4371, Train Acc: 60.00% | Val Loss: 0.3691, Val Acc: 61.40% | Time: 124.80s
+Best model saved with accuracy: 61.40%
+Epoch [3/10] Train Loss: 0.0982, Train Acc: 90.80% | Val Loss: 0.3210, Val Acc: 67.72% | Time: 126.38s
+Best model saved with accuracy: 67.72%
+Epoch [4/10] Train Loss: 0.0277, Train Acc: 98.24% | Val Loss: 0.3194, Val Acc: 66.67% | Time: 126.12s
+Epoch [5/10] Train Loss: 0.0125, Train Acc: 99.17% | Val Loss: 0.3384, Val Acc: 65.61% | Time: 125.86s
+Epoch [6/10] Train Loss: 0.0076, Train Acc: 99.49% | Val Loss: 0.2927, Val Acc: 69.83% | Time: 125.86s
+Best model saved with accuracy: 69.83%
+Epoch [7/10] Train Loss: 0.0038, Train Acc: 99.89% | Val Loss: 0.3386, Val Acc: 68.64% | Time: 125.87s
+Epoch [8/10] Train Loss: 0.0031, Train Acc: 99.81% | Val Loss: 0.3193, Val Acc: 72.33% | Time: 125.71s
+Best model saved with accuracy: 72.33%
+Epoch [9/10] Train Loss: 0.0035, Train Acc: 99.76% | Val Loss: 0.3389, Val Acc: 68.38% | Time: 125.96s
+Epoch [10/10] Train Loss: 0.0029, Train Acc: 99.81% | Val Loss: 0.3393, Val Acc: 69.43% | Time: 126.16s
+Training completed. Best accuracy: 72.33%
+Epoch [1/6] Train Loss: 1.3222, Train Acc: 1.47% | Val Loss: 1.3169, Val Acc: 2.77% | Time: 47.87s
+Best model saved with accuracy: 2.77%
+Epoch [2/6] Train Loss: 1.2999, Train Acc: 4.13% | Val Loss: 1.2836, Val Acc: 8.83% | Time: 46.96s
+Best model saved with accuracy: 8.83%
+Epoch [3/6] Train Loss: 1.2380, Train Acc: 11.73% | Val Loss: 1.1806, Val Acc: 13.57% | Time: 46.17s
+Best model saved with accuracy: 13.57%
+Epoch [4/6] Train Loss: 1.1006, Train Acc: 20.67% | Val Loss: 0.9670, Val Acc: 23.45% | Time: 45.39s
+Best model saved with accuracy: 23.45%
+Epoch [5/6] Train Loss: 0.9061, Train Acc: 29.07% | Val Loss: 0.7539, Val Acc: 34.91% | Time: 45.46s
+Best model saved with accuracy: 34.91%
+Epoch [6/6] Train Loss: 0.6911, Train Acc: 41.33% | Val Loss: 0.5904, Val Acc: 47.17% | Time: 46.23s
+Best model saved with accuracy: 47.17%
+Training completed. Best accuracy: 47.17%
+Epoch [1/20] Train Loss: 1.1128, Train Acc: 15.84% | Val Loss: 0.6334, Val Acc: 41.77% | Time: 146.92s
+Best model saved with accuracy: 41.77%
+Epoch [2/20] Train Loss: 0.2926, Train Acc: 72.38% | Val Loss: 0.3391, Val Acc: 62.58% | Time: 148.27s
+Best model saved with accuracy: 62.58%
+Epoch [3/20] Train Loss: 0.0474, Train Acc: 96.58% | Val Loss: 0.3242, Val Acc: 66.67% | Time: 148.67s
+Best model saved with accuracy: 66.67%
+Epoch [4/20] Train Loss: 0.0133, Train Acc: 99.29% | Val Loss: 0.3384, Val Acc: 67.06% | Time: 148.63s
+Best model saved with accuracy: 67.06%
+Epoch [5/20] Train Loss: 0.0078, Train Acc: 99.42% | Val Loss: 0.3392, Val Acc: 67.33% | Time: 149.16s
+Best model saved with accuracy: 67.33%
+Epoch [6/20] Train Loss: 0.0049, Train Acc: 99.82% | Val Loss: 0.3153, Val Acc: 70.09% | Time: 149.13s
+Best model saved with accuracy: 70.09%
+Epoch [7/20] Train Loss: 0.0032, Train Acc: 99.89% | Val Loss: 0.3713, Val Acc: 67.59% | Time: 148.79s
+Epoch [8/20] Train Loss: 0.0036, Train Acc: 99.71% | Val Loss: 0.3282, Val Acc: 69.96% | Time: 149.40s
+Epoch [9/20] Train Loss: 0.0030, Train Acc: 99.73% | Val Loss: 0.3301, Val Acc: 67.85% | Time: 148.52s
+Epoch [10/20] Train Loss: 0.0035, Train Acc: 99.60% | Val Loss: 0.3877, Val Acc: 67.19% | Time: 150.09s
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 60
+  num_augmentations: 5
+  num_epochs: 10
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 60
+  num_augmentations: 5
+  num_epochs: 1
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Epoch [1/1] Train Loss: 1.1882, Train Acc: 11.17% | Val Loss: 0.8068, Val Acc: 28.72% | Time: 122.16s
+Best model saved with accuracy: 28.72%
+Training completed. Best accuracy: 28.72%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 60
+  num_augmentations: 4
+  num_epochs: 10
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-10.0, 10.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 60
+  num_augmentations: 1
+  num_epochs: 1
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-10.0, 10.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 60
+  num_augmentations: 1
+  num_epochs: 1
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-10.0, 10.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=1024, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=1024, out_features=200, bias=True)
+)
+Epoch [1/1] Train Loss: 1.3224, Train Acc: 0.80% | Val Loss: 1.3151, Val Acc: 2.90% | Time: 46.35s
+Best model saved with accuracy: 2.90%
+Training completed. Best accuracy: 2.90%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 60
+  num_augmentations: 1
+  num_epochs: 1
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 60
+  num_augmentations: 1
+  num_epochs: 1
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-10.0, 10.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=1024, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=1024, out_features=200, bias=True)
+)
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-10.0, 10.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-10.0, 10.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-10.0, 10.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Epoch [1/1] Train Loss: 1.3226, Train Acc: 0.27% | Val Loss: 1.3172, Val Acc: 2.90% | Time: 46.80s
+Best model saved with accuracy: 2.90%
+Training completed. Best accuracy: 2.90%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 60
+  num_augmentations: 1
+  num_epochs: 1
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-10.0, 10.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=1024, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=1024, out_features=200, bias=True)
+)
+Epoch [1/1] Train Loss: 1.3228, Train Acc: 1.07% | Val Loss: 1.3132, Val Acc: 4.22% | Time: 47.21s
+Best model saved with accuracy: 4.22%
+Training completed. Best accuracy: 4.22%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 60
+  num_augmentations: 1
+  num_epochs: 1
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-50.0, 50.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=1024, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=1024, out_features=200, bias=True)
+)
+Epoch [1/1] Train Loss: 1.3238, Train Acc: 0.13% | Val Loss: 1.3189, Val Acc: 2.24% | Time: 47.17s
+Best model saved with accuracy: 2.24%
+Training completed. Best accuracy: 2.24%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 60
+  num_augmentations: 1
+  num_epochs: 1
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 60
+  num_augmentations: 1
+  num_epochs: 1
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-50.0, 50.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=1024, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=1024, out_features=200, bias=True)
+)
+Epoch [1/1] Train Loss: 1.3237, Train Acc: 0.80% | Val Loss: 1.3179, Val Acc: 2.37% | Time: 46.89s
+Best model saved with accuracy: 2.37%
+Training completed. Best accuracy: 2.37%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 60
+  num_augmentations: 4
+  num_epochs: 10
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-50.0, 50.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=1024, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=1024, out_features=200, bias=True)
+)
+Epoch [1/10] Train Loss: 1.2502, Train Acc: 6.43% | Val Loss: 0.9956, Val Acc: 20.42% | Time: 103.54s
+Best model saved with accuracy: 20.42%
+Epoch [2/10] Train Loss: 0.6911, Train Acc: 40.03% | Val Loss: 0.4401, Val Acc: 54.28% | Time: 105.39s
+Best model saved with accuracy: 54.28%
+Epoch [3/10] Train Loss: 0.2471, Train Acc: 74.40% | Val Loss: 0.3274, Val Acc: 64.82% | Time: 105.71s
+Best model saved with accuracy: 64.82%
+Epoch [4/10] Train Loss: 0.0896, Train Acc: 91.63% | Val Loss: 0.3092, Val Acc: 67.72% | Time: 106.31s
+Best model saved with accuracy: 67.72%
+Epoch [5/10] Train Loss: 0.0371, Train Acc: 97.10% | Val Loss: 0.2985, Val Acc: 69.30% | Time: 106.36s
+Best model saved with accuracy: 69.30%
+Epoch [6/10] Train Loss: 0.0229, Train Acc: 98.20% | Val Loss: 0.2876, Val Acc: 69.57% | Time: 106.96s
+Best model saved with accuracy: 69.57%
+Epoch [7/10] Train Loss: 0.0163, Train Acc: 98.63% | Val Loss: 0.3258, Val Acc: 67.06% | Time: 108.31s
+Epoch [8/10] Train Loss: 0.0094, Train Acc: 99.37% | Val Loss: 0.2898, Val Acc: 70.88% | Time: 107.48s
+Best model saved with accuracy: 70.88%
+Epoch [9/10] Train Loss: 0.0061, Train Acc: 99.77% | Val Loss: 0.3137, Val Acc: 70.09% | Time: 107.34s
+Epoch [10/10] Train Loss: 0.0058, Train Acc: 99.53% | Val Loss: 0.3393, Val Acc: 68.77% | Time: 107.79s
+Training completed. Best accuracy: 70.88%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 60
+  num_augmentations: 5
+  num_epochs: 10
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-50.0, 50.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=1024, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=1024, out_features=200, bias=True)
+)
+Epoch [1/10] Train Loss: 1.2017, Train Acc: 10.27% | Val Loss: 0.7958, Val Acc: 28.19% | Time: 124.65s
+Best model saved with accuracy: 28.19%
+Epoch [2/10] Train Loss: 0.4895, Train Acc: 52.96% | Val Loss: 0.3716, Val Acc: 61.26% | Time: 127.25s
+Best model saved with accuracy: 61.26%
+Epoch [3/10] Train Loss: 0.1381, Train Acc: 86.99% | Val Loss: 0.3047, Val Acc: 64.95% | Time: 127.70s
+Best model saved with accuracy: 64.95%
+Epoch [4/10] Train Loss: 0.0489, Train Acc: 95.73% | Val Loss: 0.3091, Val Acc: 67.19% | Time: 129.07s
+Best model saved with accuracy: 67.19%
+Epoch [5/10] Train Loss: 0.0231, Train Acc: 98.37% | Val Loss: 0.3203, Val Acc: 69.96% | Time: 128.85s
+Best model saved with accuracy: 69.96%
+Epoch [6/10] Train Loss: 0.0127, Train Acc: 99.15% | Val Loss: 0.2987, Val Acc: 72.46% | Time: 128.65s
+Best model saved with accuracy: 72.46%
+Epoch [7/10] Train Loss: 0.0083, Train Acc: 99.41% | Val Loss: 0.3332, Val Acc: 69.83% | Time: 128.70s
+Epoch [8/10] Train Loss: 0.0056, Train Acc: 99.68% | Val Loss: 0.3176, Val Acc: 70.62% | Time: 128.59s
+Epoch [9/10] Train Loss: 0.0047, Train Acc: 99.65% | Val Loss: 0.3175, Val Acc: 70.49% | Time: 128.59s
+Epoch [10/10] Train Loss: 0.0038, Train Acc: 99.65% | Val Loss: 0.3260, Val Acc: 69.57% | Time: 128.96s
+Training completed. Best accuracy: 72.46%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 60
+  num_augmentations: 5
+  num_epochs: 10
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-50.0, 50.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=1024, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=1024, out_features=200, bias=True)
+)
+Epoch [1/10] Train Loss: 1.2005, Train Acc: 9.89% | Val Loss: 0.8058, Val Acc: 30.04% | Time: 129.05s
+Best model saved with accuracy: 30.04%
+Epoch [2/10] Train Loss: 0.4960, Train Acc: 53.28% | Val Loss: 0.3738, Val Acc: 60.08% | Time: 128.56s
+Best model saved with accuracy: 60.08%
+Epoch [3/10] Train Loss: 0.1378, Train Acc: 86.80% | Val Loss: 0.3070, Val Acc: 67.59% | Time: 129.43s
+Best model saved with accuracy: 67.59%
+Epoch [4/10] Train Loss: 0.0474, Train Acc: 96.16% | Val Loss: 0.3138, Val Acc: 68.38% | Time: 127.57s
+Best model saved with accuracy: 68.38%
+Epoch [5/10] Train Loss: 0.0225, Train Acc: 98.48% | Val Loss: 0.3346, Val Acc: 66.40% | Time: 128.92s
+Epoch [6/10] Train Loss: 0.0121, Train Acc: 99.15% | Val Loss: 0.2995, Val Acc: 71.54% | Time: 128.59s
+Best model saved with accuracy: 71.54%
+Epoch [7/10] Train Loss: 0.0082, Train Acc: 99.41% | Val Loss: 0.3487, Val Acc: 67.72% | Time: 129.41s
+Epoch [8/10] Train Loss: 0.0061, Train Acc: 99.60% | Val Loss: 0.3312, Val Acc: 70.62% | Time: 129.36s
+Epoch [9/10] Train Loss: 0.0057, Train Acc: 99.57% | Val Loss: 0.3430, Val Acc: 69.17% | Time: 128.38s
+Epoch [10/10] Train Loss: 0.0052, Train Acc: 99.55% | Val Loss: 0.3559, Val Acc: 68.91% | Time: 128.31s
+Training completed. Best accuracy: 71.54%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 60
+  num_augmentations: 5
+  num_epochs: 10
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-90.0, 90.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=1024, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=1024, out_features=200, bias=True)
+)
+Epoch [1/10] Train Loss: 1.2137, Train Acc: 8.91% | Val Loss: 0.8191, Val Acc: 28.19% | Time: 130.93s
+Best model saved with accuracy: 28.19%
+Epoch [2/10] Train Loss: 0.5372, Train Acc: 48.88% | Val Loss: 0.3764, Val Acc: 59.82% | Time: 128.18s
+Best model saved with accuracy: 59.82%
+Epoch [3/10] Train Loss: 0.1687, Train Acc: 82.99% | Val Loss: 0.3277, Val Acc: 65.09% | Time: 127.89s
+Best model saved with accuracy: 65.09%
+Epoch [4/10] Train Loss: 0.0615, Train Acc: 94.80% | Val Loss: 0.3149, Val Acc: 65.61% | Time: 127.32s
+Best model saved with accuracy: 65.61%
+Epoch [5/10] Train Loss: 0.0275, Train Acc: 97.92% | Val Loss: 0.3197, Val Acc: 67.33% | Time: 129.61s
+Best model saved with accuracy: 67.33%
+Epoch [6/10] Train Loss: 0.0172, Train Acc: 98.80% | Val Loss: 0.3250, Val Acc: 67.33% | Time: 130.14s
+Epoch [7/10] Train Loss: 0.0092, Train Acc: 99.57% | Val Loss: 0.3287, Val Acc: 68.64% | Time: 129.65s
+Best model saved with accuracy: 68.64%
+Epoch [8/10] Train Loss: 0.0072, Train Acc: 99.57% | Val Loss: 0.3216, Val Acc: 69.70% | Time: 129.89s
+Best model saved with accuracy: 69.70%
+Epoch [9/10] Train Loss: 0.0066, Train Acc: 99.49% | Val Loss: 0.2857, Val Acc: 70.49% | Time: 130.58s
+Best model saved with accuracy: 70.49%
+Epoch [10/10] Train Loss: 0.0050, Train Acc: 99.65% | Val Loss: 0.3171, Val Acc: 71.41% | Time: 130.23s
+Best model saved with accuracy: 71.41%
+Training completed. Best accuracy: 71.41%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 60
+  num_augmentations: 5
+  num_epochs: 10
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    RandomVerticalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-90.0, 90.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=1024, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=1024, out_features=200, bias=True)
+)
+Epoch [1/10] Train Loss: 1.2150, Train Acc: 8.40% | Val Loss: 0.8389, Val Acc: 24.24% | Time: 129.57s
+Best model saved with accuracy: 24.24%
+Epoch [2/10] Train Loss: 0.5693, Train Acc: 45.47% | Val Loss: 0.4156, Val Acc: 55.86% | Time: 128.22s
+Best model saved with accuracy: 55.86%
+Epoch [3/10] Train Loss: 0.1927, Train Acc: 80.03% | Val Loss: 0.3394, Val Acc: 65.22% | Time: 129.52s
+Best model saved with accuracy: 65.22%
+Epoch [4/10] Train Loss: 0.0770, Train Acc: 92.80% | Val Loss: 0.3526, Val Acc: 62.85% | Time: 131.11s
+Epoch [5/10] Train Loss: 0.0378, Train Acc: 96.80% | Val Loss: 0.3381, Val Acc: 66.80% | Time: 129.54s
+Best model saved with accuracy: 66.80%
+Epoch [6/10] Train Loss: 0.0209, Train Acc: 98.48% | Val Loss: 0.3174, Val Acc: 68.77% | Time: 129.75s
+Best model saved with accuracy: 68.77%
+Epoch [7/10] Train Loss: 0.0128, Train Acc: 98.96% | Val Loss: 0.3632, Val Acc: 64.82% | Time: 130.78s
+Epoch [8/10] Train Loss: 0.0088, Train Acc: 99.31% | Val Loss: 0.3333, Val Acc: 69.30% | Time: 129.93s
+Best model saved with accuracy: 69.30%
+Epoch [9/10] Train Loss: 0.0070, Train Acc: 99.49% | Val Loss: 0.3491, Val Acc: 68.25% | Time: 128.99s
+Epoch [10/10] Train Loss: 0.0064, Train Acc: 99.60% | Val Loss: 0.3718, Val Acc: 68.64% | Time: 129.15s
+Training completed. Best accuracy: 69.30%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 60
+  num_augmentations: 5
+  num_epochs: 10
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    RandomVerticalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-90.0, 90.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=2048, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=2048, out_features=200, bias=True)
+)
+Epoch [1/10] Train Loss: 1.1601, Train Acc: 11.55% | Val Loss: 0.6857, Val Acc: 32.15% | Time: 125.16s
+Best model saved with accuracy: 32.15%
+Epoch [2/10] Train Loss: 0.4212, Train Acc: 57.33% | Val Loss: 0.3657, Val Acc: 59.55% | Time: 127.94s
+Best model saved with accuracy: 59.55%
+Epoch [3/10] Train Loss: 0.1261, Train Acc: 87.09% | Val Loss: 0.3515, Val Acc: 62.19% | Time: 128.58s
+Best model saved with accuracy: 62.19%
+Epoch [4/10] Train Loss: 0.0485, Train Acc: 95.49% | Val Loss: 0.3363, Val Acc: 65.88% | Time: 129.66s
+Best model saved with accuracy: 65.88%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 32
+  num_augmentations: 5
+  num_epochs: 10
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    RandomVerticalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-90.0, 90.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=2048, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=2048, out_features=200, bias=True)
+)
+Epoch [1/10] Train Loss: 0.9898, Train Acc: 19.81% | Val Loss: 0.5148, Val Acc: 44.93% | Time: 126.53s
+Best model saved with accuracy: 44.93%
+Epoch [2/10] Train Loss: 0.2621, Train Acc: 72.59% | Val Loss: 0.3412, Val Acc: 61.40% | Time: 129.49s
+Best model saved with accuracy: 61.40%
+Epoch [3/10] Train Loss: 0.0859, Train Acc: 90.72% | Val Loss: 0.3330, Val Acc: 66.93% | Time: 130.21s
+Best model saved with accuracy: 66.93%
+Epoch [4/10] Train Loss: 0.0399, Train Acc: 96.00% | Val Loss: 0.3442, Val Acc: 66.14% | Time: 130.35s
+Epoch [5/10] Train Loss: 0.0197, Train Acc: 98.35% | Val Loss: 0.3401, Val Acc: 69.57% | Time: 130.25s
+Best model saved with accuracy: 69.57%
+Epoch [6/10] Train Loss: 0.0146, Train Acc: 98.67% | Val Loss: 0.3510, Val Acc: 68.12% | Time: 130.59s
+Epoch [7/10] Train Loss: 0.0120, Train Acc: 99.04% | Val Loss: 0.3936, Val Acc: 64.56% | Time: 130.99s
+Epoch [8/10] Train Loss: 0.0069, Train Acc: 99.57% | Val Loss: 0.3616, Val Acc: 67.98% | Time: 130.81s
+Epoch [9/10] Train Loss: 0.0088, Train Acc: 99.20% | Val Loss: 0.3905, Val Acc: 66.14% | Time: 130.15s
+Epoch [10/10] Train Loss: 0.0084, Train Acc: 99.20% | Val Loss: 0.3745, Val Acc: 68.77% | Time: 130.36s
+Training completed. Best accuracy: 69.57%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 32
+  num_augmentations: 5
+  num_epochs: 20
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    RandomVerticalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-90.0, 90.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=2048, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=2048, out_features=200, bias=True)
+)
+Epoch [1/20] Train Loss: 1.0005, Train Acc: 17.76% | Val Loss: 0.5221, Val Acc: 45.32% | Time: 116.40s
+Best model saved with accuracy: 45.32%
+Epoch [2/20] Train Loss: 0.2736, Train Acc: 70.13% | Val Loss: 0.3535, Val Acc: 60.74% | Time: 123.73s
+Best model saved with accuracy: 60.74%
+Epoch [3/20] Train Loss: 0.0916, Train Acc: 91.09% | Val Loss: 0.3401, Val Acc: 64.82% | Time: 127.46s
+Best model saved with accuracy: 64.82%
+Epoch [4/20] Train Loss: 0.0373, Train Acc: 96.48% | Val Loss: 0.3756, Val Acc: 64.95% | Time: 128.66s
+Best model saved with accuracy: 64.95%
+Epoch [5/20] Train Loss: 0.0227, Train Acc: 97.81% | Val Loss: 0.3641, Val Acc: 66.67% | Time: 129.09s
+Best model saved with accuracy: 66.67%
+Epoch [6/20] Train Loss: 0.0154, Train Acc: 98.64% | Val Loss: 0.3484, Val Acc: 67.72% | Time: 129.49s
+Best model saved with accuracy: 67.72%
+Epoch [7/20] Train Loss: 0.0098, Train Acc: 99.28% | Val Loss: 0.3899, Val Acc: 66.01% | Time: 129.55s
+Epoch [8/20] Train Loss: 0.0110, Train Acc: 98.85% | Val Loss: 0.3590, Val Acc: 67.19% | Time: 130.70s
+Epoch [9/20] Train Loss: 0.0088, Train Acc: 99.25% | Val Loss: 0.3744, Val Acc: 66.53% | Time: 130.32s
+Epoch [10/20] Train Loss: 0.0095, Train Acc: 99.12% | Val Loss: 0.4027, Val Acc: 65.48% | Time: 129.17s
+Epoch [11/20] Train Loss: 0.0063, Train Acc: 99.41% | Val Loss: 0.3778, Val Acc: 67.59% | Time: 130.56s
+Epoch [12/20] Train Loss: 0.0070, Train Acc: 99.28% | Val Loss: 0.4233, Val Acc: 65.35% | Time: 129.86s
+Epoch [13/20] Train Loss: 0.0055, Train Acc: 99.55% | Val Loss: 0.3639, Val Acc: 69.43% | Time: 129.67s
+Best model saved with accuracy: 69.43%
+Epoch [14/20] Train Loss: 0.0062, Train Acc: 99.36% | Val Loss: 0.3917, Val Acc: 67.06% | Time: 130.32s
+Epoch [15/20] Train Loss: 0.0063, Train Acc: 99.09% | Val Loss: 0.4737, Val Acc: 65.88% | Time: 130.71s
+Epoch [16/20] Train Loss: 0.0060, Train Acc: 99.41% | Val Loss: 0.4477, Val Acc: 65.09% | Time: 130.39s
+Epoch [17/20] Train Loss: 0.0095, Train Acc: 98.85% | Val Loss: 0.4175, Val Acc: 66.27% | Time: 130.46s
+Epoch [18/20] Train Loss: 0.0067, Train Acc: 99.39% | Val Loss: 0.3761, Val Acc: 68.91% | Time: 130.94s
+Epoch [19/20] Train Loss: 0.0056, Train Acc: 99.36% | Val Loss: 0.4881, Val Acc: 64.16% | Time: 130.37s
+Epoch [20/20] Train Loss: 0.0043, Train Acc: 99.49% | Val Loss: 0.4763, Val Acc: 63.37% | Time: 130.53s
+Training completed. Best accuracy: 69.43%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 32
+  num_augmentations: 5
+  num_epochs: 20
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    RandomVerticalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-90.0, 90.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=2048, bias=True)
+  (1): SiLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=2048, out_features=200, bias=True)
+)
+Epoch [1/20] Train Loss: 0.9486, Train Acc: 22.45% | Val Loss: 0.4848, Val Acc: 46.90% | Time: 114.75s
+Best model saved with accuracy: 46.90%
+Epoch [2/20] Train Loss: 0.2348, Train Acc: 73.76% | Val Loss: 0.3497, Val Acc: 61.79% | Time: 118.48s
+Best model saved with accuracy: 61.79%
+Epoch [3/20] Train Loss: 0.0757, Train Acc: 91.92% | Val Loss: 0.3569, Val Acc: 66.01% | Time: 121.79s
+Best model saved with accuracy: 66.01%
+Epoch [4/20] Train Loss: 0.0357, Train Acc: 96.43% | Val Loss: 0.3619, Val Acc: 67.19% | Time: 124.79s
+Best model saved with accuracy: 67.19%
+Epoch [5/20] Train Loss: 0.0197, Train Acc: 98.11% | Val Loss: 0.3621, Val Acc: 66.40% | Time: 125.70s
+Epoch [6/20] Train Loss: 0.0153, Train Acc: 98.61% | Val Loss: 0.3594, Val Acc: 66.67% | Time: 127.03s
+Epoch [7/20] Train Loss: 0.0091, Train Acc: 99.17% | Val Loss: 0.4030, Val Acc: 66.14% | Time: 126.65s
+Epoch [8/20] Train Loss: 0.0105, Train Acc: 98.96% | Val Loss: 0.3628, Val Acc: 67.98% | Time: 127.70s
+Best model saved with accuracy: 67.98%
+Epoch [9/20] Train Loss: 0.0076, Train Acc: 99.39% | Val Loss: 0.3407, Val Acc: 67.98% | Time: 127.48s
+Epoch [10/20] Train Loss: 0.0055, Train Acc: 99.41% | Val Loss: 0.3994, Val Acc: 67.98% | Time: 127.88s
+Epoch [11/20] Train Loss: 0.0072, Train Acc: 99.39% | Val Loss: 0.3694, Val Acc: 66.80% | Time: 128.19s
+Epoch [12/20] Train Loss: 0.0077, Train Acc: 99.20% | Val Loss: 0.4313, Val Acc: 64.43% | Time: 128.20s
+Epoch [13/20] Train Loss: 0.0071, Train Acc: 99.07% | Val Loss: 0.4045, Val Acc: 67.59% | Time: 128.73s
+Epoch [14/20] Train Loss: 0.0072, Train Acc: 99.17% | Val Loss: 0.4109, Val Acc: 66.67% | Time: 127.86s
+Epoch [15/20] Train Loss: 0.0063, Train Acc: 99.39% | Val Loss: 0.4125, Val Acc: 67.06% | Time: 128.88s
+Epoch [16/20] Train Loss: 0.0066, Train Acc: 99.20% | Val Loss: 0.4204, Val Acc: 67.19% | Time: 129.29s
+Epoch [17/20] Train Loss: 0.0073, Train Acc: 99.12% | Val Loss: 0.3963, Val Acc: 69.17% | Time: 128.58s
+Best model saved with accuracy: 69.17%
+Epoch [18/20] Train Loss: 0.0053, Train Acc: 99.47% | Val Loss: 0.4139, Val Acc: 65.88% | Time: 128.96s
+Epoch [19/20] Train Loss: 0.0068, Train Acc: 99.07% | Val Loss: 0.5016, Val Acc: 63.11% | Time: 128.43s
+Epoch [20/20] Train Loss: 0.0045, Train Acc: 99.47% | Val Loss: 0.4392, Val Acc: 66.40% | Time: 129.74s
+Training completed. Best accuracy: 69.17%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 32
+  num_augmentations: 6
+  num_epochs: 10
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    RandomVerticalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-90.0, 90.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=2048, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.6, inplace=False)
+  (3): Linear(in_features=2048, out_features=200, bias=True)
+)
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 56
+  num_augmentations: 6
+  num_epochs: 10
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    RandomVerticalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-90.0, 90.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=2048, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.6, inplace=False)
+  (3): Linear(in_features=2048, out_features=200, bias=True)
+)
+Epoch [1/10] Train Loss: 1.1121, Train Acc: 13.40% | Val Loss: 0.6047, Val Acc: 41.11% | Time: 128.21s
+Best model saved with accuracy: 41.11%
+Epoch [2/10] Train Loss: 0.3461, Train Acc: 62.96% | Val Loss: 0.3556, Val Acc: 59.03% | Time: 135.90s
+Best model saved with accuracy: 59.03%
+Epoch [3/10] Train Loss: 0.0964, Train Acc: 89.96% | Val Loss: 0.3407, Val Acc: 65.09% | Time: 140.36s
+Best model saved with accuracy: 65.09%
+Epoch [4/10] Train Loss: 0.0378, Train Acc: 96.69% | Val Loss: 0.3587, Val Acc: 63.64% | Time: 143.68s
+Epoch [5/10] Train Loss: 0.0201, Train Acc: 98.29% | Val Loss: 0.3700, Val Acc: 65.09% | Time: 144.14s
+Epoch [6/10] Train Loss: 0.0107, Train Acc: 99.20% | Val Loss: 0.3379, Val Acc: 68.12% | Time: 144.39s
+Best model saved with accuracy: 68.12%
+Epoch [7/10] Train Loss: 0.0067, Train Acc: 99.56% | Val Loss: 0.3970, Val Acc: 65.09% | Time: 145.47s
+Epoch [8/10] Train Loss: 0.0057, Train Acc: 99.62% | Val Loss: 0.3475, Val Acc: 68.25% | Time: 145.78s
+Best model saved with accuracy: 68.25%
+Epoch [9/10] Train Loss: 0.0051, Train Acc: 99.42% | Val Loss: 0.3836, Val Acc: 66.01% | Time: 147.85s
+Epoch [10/10] Train Loss: 0.0070, Train Acc: 99.29% | Val Loss: 0.4549, Val Acc: 66.40% | Time: 146.15s
+Training completed. Best accuracy: 68.25%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 56
+  num_augmentations: 4
+  num_epochs: 10
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    RandomVerticalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-90.0, 90.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=4096, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=4096, out_features=200, bias=True)
+)
+Epoch [1/10] Train Loss: 1.1577, Train Acc: 10.60% | Val Loss: 0.7249, Val Acc: 31.23% | Time: 96.18s
+Best model saved with accuracy: 31.23%
+Epoch [2/10] Train Loss: 0.4187, Train Acc: 59.27% | Val Loss: 0.3935, Val Acc: 56.13% | Time: 101.10s
+Best model saved with accuracy: 56.13%
+Epoch [3/10] Train Loss: 0.1380, Train Acc: 85.57% | Val Loss: 0.3410, Val Acc: 63.64% | Time: 103.88s
+Best model saved with accuracy: 63.64%
+Epoch [4/10] Train Loss: 0.0492, Train Acc: 95.47% | Val Loss: 0.3585, Val Acc: 63.11% | Time: 104.56s
+Epoch [5/10] Train Loss: 0.0241, Train Acc: 98.23% | Val Loss: 0.3625, Val Acc: 65.09% | Time: 106.34s
+Best model saved with accuracy: 65.09%
+Epoch [6/10] Train Loss: 0.0166, Train Acc: 98.57% | Val Loss: 0.3332, Val Acc: 65.88% | Time: 105.79s
+Best model saved with accuracy: 65.88%
+Epoch [7/10] Train Loss: 0.0109, Train Acc: 99.07% | Val Loss: 0.3954, Val Acc: 63.64% | Time: 104.88s
+Epoch [8/10] Train Loss: 0.0089, Train Acc: 99.47% | Val Loss: 0.3344, Val Acc: 67.98% | Time: 107.30s
+Best model saved with accuracy: 67.98%
+Epoch [9/10] Train Loss: 0.0062, Train Acc: 99.50% | Val Loss: 0.3745, Val Acc: 66.93% | Time: 106.96s
+Epoch [10/10] Train Loss: 0.0046, Train Acc: 99.83% | Val Loss: 0.3912, Val Acc: 66.27% | Time: 106.07s
+Training completed. Best accuracy: 67.98%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 56
+  num_augmentations: 4
+  num_epochs: 10
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    RandomVerticalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-90.0, 90.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=2048, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=2048, out_features=2048, bias=True)
+  (4): ReLU()
+  (5): Dropout(p=0.5, inplace=False)
+  (6): Linear(in_features=2048, out_features=200, bias=True)
+)
+Epoch [1/10] Train Loss: 1.3040, Train Acc: 3.13% | Val Loss: 1.1498, Val Acc: 10.94% | Time: 94.53s
+Best model saved with accuracy: 10.94%
+Epoch [2/10] Train Loss: 0.9013, Train Acc: 18.10% | Val Loss: 0.5613, Val Acc: 43.87% | Time: 98.58s
+Best model saved with accuracy: 43.87%
+Epoch [3/10] Train Loss: 0.4539, Train Acc: 49.43% | Val Loss: 0.3806, Val Acc: 57.97% | Time: 102.09s
+Best model saved with accuracy: 57.97%
+Epoch [4/10] Train Loss: 0.2235, Train Acc: 73.23% | Val Loss: 0.3551, Val Acc: 60.87% | Time: 103.89s
+Best model saved with accuracy: 60.87%
+Epoch [5/10] Train Loss: 0.1190, Train Acc: 85.50% | Val Loss: 0.3608, Val Acc: 63.77% | Time: 104.85s
+Best model saved with accuracy: 63.77%
+Epoch [6/10] Train Loss: 0.0718, Train Acc: 91.77% | Val Loss: 0.3675, Val Acc: 62.71% | Time: 106.10s
+Epoch [7/10] Train Loss: 0.0469, Train Acc: 95.27% | Val Loss: 0.3790, Val Acc: 65.22% | Time: 107.17s
+Best model saved with accuracy: 65.22%
+Epoch [8/10] Train Loss: 0.0271, Train Acc: 97.10% | Val Loss: 0.4037, Val Acc: 64.95% | Time: 106.74s
+Epoch [9/10] Train Loss: 0.0205, Train Acc: 97.93% | Val Loss: 0.3696, Val Acc: 66.01% | Time: 106.06s
+Best model saved with accuracy: 66.01%
+Epoch [10/10] Train Loss: 0.0146, Train Acc: 98.57% | Val Loss: 0.3963, Val Acc: 66.27% | Time: 106.13s
+Best model saved with accuracy: 66.27%
+Training completed. Best accuracy: 66.27%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 56
+  num_augmentations: 4
+  num_epochs: 10
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    RandomVerticalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-90.0, 90.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=2048, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.2, inplace=False)
+  (3): Linear(in_features=2048, out_features=2048, bias=True)
+  (4): ReLU()
+  (5): Dropout(p=0.2, inplace=False)
+  (6): Linear(in_features=2048, out_features=200, bias=True)
+)
+Epoch [1/10] Train Loss: 1.2151, Train Acc: 6.63% | Val Loss: 0.8378, Val Acc: 22.00% | Time: 95.13s
+Best model saved with accuracy: 22.00%
+Epoch [2/10] Train Loss: 0.5323, Train Acc: 45.57% | Val Loss: 0.4496, Val Acc: 50.07% | Time: 99.30s
+Best model saved with accuracy: 50.07%
+Epoch [3/10] Train Loss: 0.2074, Train Acc: 76.23% | Val Loss: 0.3577, Val Acc: 61.40% | Time: 103.31s
+Best model saved with accuracy: 61.40%
+Epoch [4/10] Train Loss: 0.0855, Train Acc: 90.10% | Val Loss: 0.3735, Val Acc: 63.50% | Time: 104.93s
+Best model saved with accuracy: 63.50%
+Epoch [5/10] Train Loss: 0.0406, Train Acc: 95.87% | Val Loss: 0.3724, Val Acc: 64.30% | Time: 105.26s
+Best model saved with accuracy: 64.30%
+Epoch [6/10] Train Loss: 0.0253, Train Acc: 97.27% | Val Loss: 0.3629, Val Acc: 65.09% | Time: 106.21s
+Best model saved with accuracy: 65.09%
+Epoch [7/10] Train Loss: 0.0184, Train Acc: 98.40% | Val Loss: 0.4058, Val Acc: 66.01% | Time: 106.15s
+Best model saved with accuracy: 66.01%
+Epoch [8/10] Train Loss: 0.0114, Train Acc: 98.90% | Val Loss: 0.3836, Val Acc: 67.59% | Time: 106.20s
+Best model saved with accuracy: 67.59%
+Epoch [9/10] Train Loss: 0.0094, Train Acc: 99.23% | Val Loss: 0.4226, Val Acc: 63.77% | Time: 105.83s
+Epoch [10/10] Train Loss: 0.0069, Train Acc: 99.53% | Val Loss: 0.4164, Val Acc: 66.40% | Time: 106.51s
+Training completed. Best accuracy: 67.59%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 56
+  num_augmentations: 4
+  num_epochs: 10
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    RandomVerticalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-90.0, 90.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=2048, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=2048, out_features=2048, bias=True)
+  (4): ReLU()
+  (5): Dropout(p=0.5, inplace=False)
+  (6): Linear(in_features=2048, out_features=2048, bias=True)
+  (7): ReLU()
+  (8): Dropout(p=0.5, inplace=False)
+  (9): Linear(in_features=2048, out_features=200, bias=True)
+)
+Epoch [1/10] Train Loss: 1.3178, Train Acc: 0.40% | Val Loss: 1.2688, Val Acc: 1.45% | Time: 94.85s
+Best model saved with accuracy: 1.45%
+Epoch [2/10] Train Loss: 1.2107, Train Acc: 3.13% | Val Loss: 1.1092, Val Acc: 7.11% | Time: 98.46s
+Best model saved with accuracy: 7.11%
+Epoch [3/10] Train Loss: 1.0238, Train Acc: 10.67% | Val Loss: 0.8989, Val Acc: 20.03% | Time: 102.04s
+Best model saved with accuracy: 20.03%
+Epoch [4/10] Train Loss: 0.7566, Train Acc: 24.80% | Val Loss: 0.6033, Val Acc: 36.50% | Time: 103.67s
+Best model saved with accuracy: 36.50%
+Epoch [5/10] Train Loss: 0.4893, Train Acc: 43.37% | Val Loss: 0.4977, Val Acc: 45.32% | Time: 104.28s
+Best model saved with accuracy: 45.32%
+Epoch [6/10] Train Loss: 0.3125, Train Acc: 61.00% | Val Loss: 0.4204, Val Acc: 55.47% | Time: 105.13s
+Best model saved with accuracy: 55.47%
+Epoch [7/10] Train Loss: 0.2200, Train Acc: 71.70% | Val Loss: 0.4171, Val Acc: 57.18% | Time: 105.39s
+Best model saved with accuracy: 57.18%
+Epoch [8/10] Train Loss: 0.1413, Train Acc: 81.40% | Val Loss: 0.4131, Val Acc: 61.26% | Time: 106.28s
+Best model saved with accuracy: 61.26%
+Epoch [9/10] Train Loss: 0.0919, Train Acc: 88.43% | Val Loss: 0.4207, Val Acc: 62.45% | Time: 106.85s
+Best model saved with accuracy: 62.45%
+Epoch [10/10] Train Loss: 0.0702, Train Acc: 90.90% | Val Loss: 0.5053, Val Acc: 61.13% | Time: 106.18s
+Training completed. Best accuracy: 62.45%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 56
+  num_augmentations: 4
+  num_epochs: 10
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    RandomVerticalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-90.0, 90.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=1024, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=1024, out_features=512, bias=True)
+  (4): ReLU()
+  (5): Dropout(p=0.5, inplace=False)
+  (6): Linear(in_features=512, out_features=512, bias=True)
+  (7): ReLU()
+  (8): Dropout(p=0.5, inplace=False)
+  (9): Linear(in_features=512, out_features=200, bias=True)
+)
+Epoch [1/10] Train Loss: 1.3238, Train Acc: 0.70% | Val Loss: 1.3231, Val Acc: 0.92% | Time: 103.33s
+Best model saved with accuracy: 0.92%
+Epoch [2/10] Train Loss: 1.3075, Train Acc: 0.63% | Val Loss: 1.2763, Val Acc: 1.32% | Time: 104.85s
+Best model saved with accuracy: 1.32%
+Epoch [3/10] Train Loss: 1.2400, Train Acc: 2.40% | Val Loss: 1.1409, Val Acc: 7.64% | Time: 106.16s
+Best model saved with accuracy: 7.64%
+Epoch [4/10] Train Loss: 1.0940, Train Acc: 5.33% | Val Loss: 0.9649, Val Acc: 13.97% | Time: 105.60s
+Best model saved with accuracy: 13.97%
+Epoch [5/10] Train Loss: 0.9503, Train Acc: 11.80% | Val Loss: 0.8246, Val Acc: 26.09% | Time: 106.34s
+Best model saved with accuracy: 26.09%
+Epoch [6/10] Train Loss: 0.8152, Train Acc: 18.60% | Val Loss: 0.6853, Val Acc: 34.39% | Time: 106.66s
+Best model saved with accuracy: 34.39%
+Epoch [7/10] Train Loss: 0.6755, Train Acc: 28.53% | Val Loss: 0.5613, Val Acc: 40.97% | Time: 106.46s
+Best model saved with accuracy: 40.97%
+Epoch [8/10] Train Loss: 0.5390, Train Acc: 37.93% | Val Loss: 0.4865, Val Acc: 51.12% | Time: 106.46s
+Best model saved with accuracy: 51.12%
+Epoch [9/10] Train Loss: 0.4336, Train Acc: 48.33% | Val Loss: 0.4272, Val Acc: 52.04% | Time: 107.19s
+Best model saved with accuracy: 52.04%
+Epoch [10/10] Train Loss: 0.3442, Train Acc: 57.73% | Val Loss: 0.3842, Val Acc: 59.16% | Time: 106.70s
+Best model saved with accuracy: 59.16%
+Training completed. Best accuracy: 59.16%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 56
+  num_augmentations: 4
+  num_epochs: 10
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    RandomVerticalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-90.0, 90.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=1024, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=1024, out_features=200, bias=True)
+)
+Epoch [1/10] Train Loss: 1.2717, Train Acc: 5.37% | Val Loss: 1.0693, Val Acc: 18.18% | Time: 95.14s
+Best model saved with accuracy: 18.18%
+Epoch [2/10] Train Loss: 0.7589, Train Acc: 32.50% | Val Loss: 0.4931, Val Acc: 52.31% | Time: 99.30s
+Best model saved with accuracy: 52.31%
+Epoch [3/10] Train Loss: 0.3178, Train Acc: 67.07% | Val Loss: 0.3596, Val Acc: 61.79% | Time: 102.58s
+Best model saved with accuracy: 61.79%
+Epoch [4/10] Train Loss: 0.1359, Train Acc: 86.60% | Val Loss: 0.3378, Val Acc: 62.45% | Time: 104.62s
+Best model saved with accuracy: 62.45%
+Epoch [5/10] Train Loss: 0.0644, Train Acc: 94.03% | Val Loss: 0.3287, Val Acc: 66.27% | Time: 106.11s
+Best model saved with accuracy: 66.27%
+Epoch [6/10] Train Loss: 0.0355, Train Acc: 97.10% | Val Loss: 0.3244, Val Acc: 67.46% | Time: 105.82s
+Best model saved with accuracy: 67.46%
+Epoch [7/10] Train Loss: 0.0211, Train Acc: 98.53% | Val Loss: 0.3842, Val Acc: 64.30% | Time: 105.93s
+Epoch [8/10] Train Loss: 0.0164, Train Acc: 98.70% | Val Loss: 0.3410, Val Acc: 66.67% | Time: 106.04s
+Epoch [9/10] Train Loss: 0.0118, Train Acc: 99.07% | Val Loss: 0.3475, Val Acc: 67.19% | Time: 106.39s
+Epoch [10/10] Train Loss: 0.0104, Train Acc: 99.20% | Val Loss: 0.3764, Val Acc: 66.40% | Time: 107.11s
+Training completed. Best accuracy: 67.46%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 56
+  num_augmentations: 4
+  num_epochs: 10
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    RandomVerticalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-90.0, 90.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=512, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=512, out_features=200, bias=True)
+)
+Epoch [1/10] Train Loss: 1.2912, Train Acc: 3.17% | Val Loss: 1.1578, Val Acc: 10.54% | Time: 92.29s
+Best model saved with accuracy: 10.54%
+Epoch [2/10] Train Loss: 0.9166, Train Acc: 22.93% | Val Loss: 0.5964, Val Acc: 44.66% | Time: 95.00s
+Best model saved with accuracy: 44.66%
+Epoch [3/10] Train Loss: 0.4499, Train Acc: 55.77% | Val Loss: 0.3921, Val Acc: 60.61% | Time: 97.00s
+Best model saved with accuracy: 60.61%
+Epoch [4/10] Train Loss: 0.2131, Train Acc: 78.77% | Val Loss: 0.3360, Val Acc: 62.58% | Time: 97.74s
+Best model saved with accuracy: 62.58%
+Epoch [5/10] Train Loss: 0.1065, Train Acc: 90.43% | Val Loss: 0.3117, Val Acc: 66.67% | Time: 99.24s
+Best model saved with accuracy: 66.67%
+Epoch [6/10] Train Loss: 0.0587, Train Acc: 95.00% | Val Loss: 0.3028, Val Acc: 67.59% | Time: 101.20s
+Best model saved with accuracy: 67.59%
+Epoch [7/10] Train Loss: 0.0347, Train Acc: 97.23% | Val Loss: 0.3441, Val Acc: 66.40% | Time: 100.89s
+Epoch [8/10] Train Loss: 0.0248, Train Acc: 97.97% | Val Loss: 0.3248, Val Acc: 68.77% | Time: 101.63s
+Best model saved with accuracy: 68.77%
+Epoch [9/10] Train Loss: 0.0165, Train Acc: 99.03% | Val Loss: 0.3285, Val Acc: 68.12% | Time: 101.04s
+Epoch [10/10] Train Loss: 0.0133, Train Acc: 99.13% | Val Loss: 0.3357, Val Acc: 68.64% | Time: 101.99s
+Training completed. Best accuracy: 68.77%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 56
+  num_augmentations: 4
+  num_epochs: 30
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    RandomVerticalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-90.0, 90.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=1024, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=1024, out_features=512, bias=True)
+  (4): ReLU()
+  (5): Dropout(p=0.5, inplace=False)
+  (6): Linear(in_features=512, out_features=512, bias=True)
+  (7): ReLU()
+  (8): Dropout(p=0.5, inplace=False)
+  (9): Linear(in_features=512, out_features=200, bias=True)
+)
+Epoch [1/30] Train Loss: 1.3242, Train Acc: 0.43% | Val Loss: 1.3246, Val Acc: 0.40% | Time: 97.13s
+Best model saved with accuracy: 0.40%
+Epoch [2/30] Train Loss: 1.3112, Train Acc: 0.80% | Val Loss: 1.2752, Val Acc: 2.24% | Time: 100.49s
+Best model saved with accuracy: 2.24%
+Epoch [3/30] Train Loss: 1.2329, Train Acc: 1.80% | Val Loss: 1.0948, Val Acc: 6.59% | Time: 102.04s
+Best model saved with accuracy: 6.59%
+Epoch [4/30] Train Loss: 1.0755, Train Acc: 5.80% | Val Loss: 0.9306, Val Acc: 14.49% | Time: 102.20s
+Best model saved with accuracy: 14.49%
+Epoch [5/30] Train Loss: 0.9040, Train Acc: 12.20% | Val Loss: 0.7398, Val Acc: 23.72% | Time: 102.98s
+Best model saved with accuracy: 23.72%
+Epoch [6/30] Train Loss: 0.7565, Train Acc: 19.17% | Val Loss: 0.6016, Val Acc: 38.74% | Time: 102.44s
+Best model saved with accuracy: 38.74%
+Epoch [7/30] Train Loss: 0.6140, Train Acc: 32.07% | Val Loss: 0.5330, Val Acc: 41.11% | Time: 102.64s
+Best model saved with accuracy: 41.11%
+Epoch [8/30] Train Loss: 0.4942, Train Acc: 41.57% | Val Loss: 0.4612, Val Acc: 51.52% | Time: 103.14s
+Best model saved with accuracy: 51.52%
+Epoch [9/30] Train Loss: 0.3980, Train Acc: 51.67% | Val Loss: 0.4127, Val Acc: 57.18% | Time: 103.96s
+Best model saved with accuracy: 57.18%
+Epoch [10/30] Train Loss: 0.3174, Train Acc: 60.33% | Val Loss: 0.3771, Val Acc: 58.76% | Time: 103.31s
+Best model saved with accuracy: 58.76%
+Epoch [11/30] Train Loss: 0.2410, Train Acc: 69.50% | Val Loss: 0.3790, Val Acc: 62.32% | Time: 103.75s
+Best model saved with accuracy: 62.32%
+Epoch [12/30] Train Loss: 0.1845, Train Acc: 75.90% | Val Loss: 0.4302, Val Acc: 58.10% | Time: 103.75s
+Epoch [13/30] Train Loss: 0.1503, Train Acc: 81.10% | Val Loss: 0.3839, Val Acc: 64.03% | Time: 103.86s
+Best model saved with accuracy: 64.03%
+Epoch [14/30] Train Loss: 0.1301, Train Acc: 83.83% | Val Loss: 0.4104, Val Acc: 66.40% | Time: 104.08s
+Best model saved with accuracy: 66.40%
+Epoch [15/30] Train Loss: 0.0938, Train Acc: 88.70% | Val Loss: 0.4094, Val Acc: 62.32% | Time: 104.33s
+Epoch [16/30] Train Loss: 0.0797, Train Acc: 89.83% | Val Loss: 0.4511, Val Acc: 62.85% | Time: 103.23s
+Epoch [17/30] Train Loss: 0.0623, Train Acc: 92.70% | Val Loss: 0.4300, Val Acc: 64.69% | Time: 103.92s
+Epoch [18/30] Train Loss: 0.0508, Train Acc: 94.30% | Val Loss: 0.4518, Val Acc: 62.45% | Time: 103.20s
+Epoch [19/30] Train Loss: 0.0408, Train Acc: 95.53% | Val Loss: 0.5183, Val Acc: 61.53% | Time: 104.38s
+Epoch [20/30] Train Loss: 0.0416, Train Acc: 94.97% | Val Loss: 0.5504, Val Acc: 61.66% | Time: 104.50s
+Epoch [21/30] Train Loss: 0.0320, Train Acc: 96.47% | Val Loss: 0.5255, Val Acc: 61.00% | Time: 104.70s
+Epoch [22/30] Train Loss: 0.0326, Train Acc: 96.30% | Val Loss: 0.4855, Val Acc: 63.64% | Time: 104.45s
+Epoch [23/30] Train Loss: 0.0314, Train Acc: 96.53% | Val Loss: 0.5309, Val Acc: 61.92% | Time: 104.43s
+Epoch [24/30] Train Loss: 0.0275, Train Acc: 96.93% | Val Loss: 0.5320, Val Acc: 64.16% | Time: 104.25s
+Epoch [25/30] Train Loss: 0.0242, Train Acc: 97.40% | Val Loss: 0.5757, Val Acc: 63.64% | Time: 104.46s
+Epoch [26/30] Train Loss: 0.0195, Train Acc: 98.00% | Val Loss: 0.5012, Val Acc: 64.95% | Time: 104.49s
+Epoch [27/30] Train Loss: 0.0187, Train Acc: 98.03% | Val Loss: 0.5940, Val Acc: 60.74% | Time: 104.18s
+Epoch [28/30] Train Loss: 0.0191, Train Acc: 98.07% | Val Loss: 0.4875, Val Acc: 67.06% | Time: 105.34s
+Best model saved with accuracy: 67.06%
+Epoch [29/30] Train Loss: 0.0125, Train Acc: 98.97% | Val Loss: 0.4952, Val Acc: 66.01% | Time: 104.96s
+Epoch [30/30] Train Loss: 0.0181, Train Acc: 98.10% | Val Loss: 0.5229, Val Acc: 63.64% | Time: 105.27s
+Training completed. Best accuracy: 67.06%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 60
+  num_augmentations: 5
+  num_epochs: 30
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-50.0, 50.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=1024, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=1024, out_features=200, bias=True)
+)
+Epoch [1/30] Train Loss: 1.1828, Train Acc: 11.04% | Val Loss: 0.7679, Val Acc: 29.25% | Time: 121.92s
+Best model saved with accuracy: 29.25%
+Epoch [2/30] Train Loss: 0.4752, Train Acc: 54.27% | Val Loss: 0.3590, Val Acc: 60.08% | Time: 123.01s
+Best model saved with accuracy: 60.08%
+Epoch [3/30] Train Loss: 0.1361, Train Acc: 86.19% | Val Loss: 0.3097, Val Acc: 66.01% | Time: 124.45s
+Best model saved with accuracy: 66.01%
+Epoch [4/30] Train Loss: 0.0457, Train Acc: 96.45% | Val Loss: 0.3031, Val Acc: 64.95% | Time: 124.65s
+Epoch [5/30] Train Loss: 0.0192, Train Acc: 98.75% | Val Loss: 0.3274, Val Acc: 66.14% | Time: 125.92s
+Best model saved with accuracy: 66.14%
+Epoch [6/30] Train Loss: 0.0103, Train Acc: 99.49% | Val Loss: 0.2937, Val Acc: 68.91% | Time: 125.58s
+Best model saved with accuracy: 68.91%
+Epoch [7/30] Train Loss: 0.0067, Train Acc: 99.68% | Val Loss: 0.3438, Val Acc: 66.80% | Time: 126.06s
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 56
+  num_augmentations: 5
+  num_epochs: 30
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-50.0, 50.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=1024, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=1024, out_features=200, bias=True)
+)
+Epoch [1/30] Train Loss: 1.1834, Train Acc: 10.21% | Val Loss: 0.7710, Val Acc: 32.28% | Time: 119.33s
+Best model saved with accuracy: 32.28%
+Epoch [2/30] Train Loss: 0.4614, Train Acc: 55.65% | Val Loss: 0.3566, Val Acc: 62.85% | Time: 123.02s
+Best model saved with accuracy: 62.85%
+Epoch [3/30] Train Loss: 0.1281, Train Acc: 87.76% | Val Loss: 0.3056, Val Acc: 68.12% | Time: 124.27s
+Best model saved with accuracy: 68.12%
+Epoch [4/30] Train Loss: 0.0436, Train Acc: 96.83% | Val Loss: 0.2981, Val Acc: 67.33% | Time: 124.17s
+Epoch [5/30] Train Loss: 0.0187, Train Acc: 98.64% | Val Loss: 0.3069, Val Acc: 70.09% | Time: 125.78s
+Best model saved with accuracy: 70.09%
+Epoch [6/30] Train Loss: 0.0115, Train Acc: 99.31% | Val Loss: 0.3161, Val Acc: 69.57% | Time: 124.69s
+Epoch [7/30] Train Loss: 0.0077, Train Acc: 99.57% | Val Loss: 0.3752, Val Acc: 66.80% | Time: 125.49s
+Epoch [8/30] Train Loss: 0.0047, Train Acc: 99.79% | Val Loss: 0.3178, Val Acc: 71.15% | Time: 125.26s
+Best model saved with accuracy: 71.15%
+Epoch [9/30] Train Loss: 0.0057, Train Acc: 99.57% | Val Loss: 0.3508, Val Acc: 67.46% | Time: 125.99s
+Epoch [10/30] Train Loss: 0.0055, Train Acc: 99.60% | Val Loss: 0.3516, Val Acc: 68.12% | Time: 125.57s
+Epoch [11/30] Train Loss: 0.0042, Train Acc: 99.65% | Val Loss: 0.3486, Val Acc: 70.62% | Time: 125.47s
+Epoch [12/30] Train Loss: 0.0038, Train Acc: 99.71% | Val Loss: 0.3877, Val Acc: 67.72% | Time: 125.63s
+Epoch [13/30] Train Loss: 0.0037, Train Acc: 99.60% | Val Loss: 0.3179, Val Acc: 72.33% | Time: 126.20s
+Best model saved with accuracy: 72.33%
+Epoch [14/30] Train Loss: 0.0039, Train Acc: 99.65% | Val Loss: 0.3367, Val Acc: 72.86% | Time: 126.43s
+Best model saved with accuracy: 72.86%
+Epoch [15/30] Train Loss: 0.0058, Train Acc: 99.39% | Val Loss: 0.3723, Val Acc: 69.57% | Time: 125.65s
+Epoch [16/30] Train Loss: 0.0055, Train Acc: 99.55% | Val Loss: 0.3629, Val Acc: 67.72% | Time: 126.20s
+Epoch [17/30] Train Loss: 0.0041, Train Acc: 99.57% | Val Loss: 0.3581, Val Acc: 70.62% | Time: 126.51s
+Epoch [18/30] Train Loss: 0.0035, Train Acc: 99.65% | Val Loss: 0.3415, Val Acc: 69.57% | Time: 125.47s
+Epoch [19/30] Train Loss: 0.0024, Train Acc: 99.79% | Val Loss: 0.4212, Val Acc: 65.22% | Time: 126.51s
+Epoch [20/30] Train Loss: 0.0040, Train Acc: 99.57% | Val Loss: 0.4129, Val Acc: 65.74% | Time: 126.27s
+Epoch [21/30] Train Loss: 0.0040, Train Acc: 99.49% | Val Loss: 0.4457, Val Acc: 66.53% | Time: 126.03s
+Epoch [22/30] Train Loss: 0.0046, Train Acc: 99.55% | Val Loss: 0.3718, Val Acc: 67.98% | Time: 126.58s
+Epoch [23/30] Train Loss: 0.0038, Train Acc: 99.49% | Val Loss: 0.3888, Val Acc: 68.25% | Time: 126.26s
+Epoch [24/30] Train Loss: 0.0035, Train Acc: 99.63% | Val Loss: 0.4102, Val Acc: 66.40% | Time: 127.92s
+Epoch [25/30] Train Loss: 0.0056, Train Acc: 99.31% | Val Loss: 0.4183, Val Acc: 66.14% | Time: 126.89s
+Epoch [26/30] Train Loss: 0.0040, Train Acc: 99.55% | Val Loss: 0.3693, Val Acc: 69.70% | Time: 126.90s
+Epoch [27/30] Train Loss: 0.0024, Train Acc: 99.68% | Val Loss: 0.4003, Val Acc: 68.91% | Time: 127.87s
+Epoch [28/30] Train Loss: 0.0024, Train Acc: 99.68% | Val Loss: 0.3798, Val Acc: 69.43% | Time: 126.33s
+Epoch [29/30] Train Loss: 0.0027, Train Acc: 99.57% | Val Loss: 0.4026, Val Acc: 68.77% | Time: 126.81s
+Epoch [30/30] Train Loss: 0.0031, Train Acc: 99.49% | Val Loss: 0.4002, Val Acc: 69.43% | Time: 126.34s
+Training completed. Best accuracy: 72.86%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 56
+  num_augmentations: 20
+  num_epochs: 10
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-50.0, 50.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=1024, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=1024, out_features=200, bias=True)
+)
+Epoch [1/10] Train Loss: 0.4522, Train Acc: 62.99% | Val Loss: 0.3236, Val Acc: 66.27% | Time: 397.17s
+Best model saved with accuracy: 66.27%
+Epoch [2/10] Train Loss: 0.0118, Train Acc: 99.20% | Val Loss: 0.3372, Val Acc: 69.96% | Time: 421.67s
+Best model saved with accuracy: 69.96%
+Epoch [3/10] Train Loss: 0.0045, Train Acc: 99.67% | Val Loss: 0.3371, Val Acc: 69.96% | Time: 422.32s
+Epoch [4/10] Train Loss: 0.0034, Train Acc: 99.65% | Val Loss: 0.3927, Val Acc: 67.06% | Time: 424.01s
+Epoch [5/10] Train Loss: 0.0045, Train Acc: 99.55% | Val Loss: 0.3742, Val Acc: 69.57% | Time: 424.82s
+Epoch [6/10] Train Loss: 0.0038, Train Acc: 99.57% | Val Loss: 0.4023, Val Acc: 66.93% | Time: 425.64s
+Epoch [7/10] Train Loss: 0.0031, Train Acc: 99.57% | Val Loss: 0.4090, Val Acc: 68.51% | Time: 428.10s
+Epoch [8/10] Train Loss: 0.0037, Train Acc: 99.54% | Val Loss: 0.4009, Val Acc: 68.91% | Time: 430.19s
+Epoch [9/10] Train Loss: 0.0042, Train Acc: 99.45% | Val Loss: 0.4029, Val Acc: 68.51% | Time: 430.62s
+Epoch [10/10] Train Loss: 0.0032, Train Acc: 99.55% | Val Loss: 0.4054, Val Acc: 67.98% | Time: 431.63s
+Training completed. Best accuracy: 69.96%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 56
+  num_augmentations: 5
+  num_epochs: 15
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-50.0, 50.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=1024, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=1024, out_features=200, bias=True)
+)
+Epoch [1/15] Train Loss: 1.1898, Train Acc: 10.11% | Val Loss: 0.7737, Val Acc: 32.67% | Time: 110.03s
+Best model saved with accuracy: 32.67%
+Epoch [2/15] Train Loss: 0.4776, Train Acc: 53.63% | Val Loss: 0.3671, Val Acc: 61.92% | Time: 112.76s
+Best model saved with accuracy: 61.92%
+Epoch [3/15] Train Loss: 0.1338, Train Acc: 87.17% | Val Loss: 0.3157, Val Acc: 66.93% | Time: 118.68s
+Best model saved with accuracy: 66.93%
+Epoch [4/15] Train Loss: 0.0444, Train Acc: 96.32% | Val Loss: 0.3092, Val Acc: 66.40% | Time: 122.35s
+Epoch [5/15] Train Loss: 0.0199, Train Acc: 98.48% | Val Loss: 0.3137, Val Acc: 68.64% | Time: 122.94s
+Best model saved with accuracy: 68.64%
+Epoch [6/15] Train Loss: 0.0113, Train Acc: 99.41% | Val Loss: 0.2898, Val Acc: 71.28% | Time: 123.84s
+Best model saved with accuracy: 71.28%
+Epoch [7/15] Train Loss: 0.0066, Train Acc: 99.63% | Val Loss: 0.3390, Val Acc: 70.22% | Time: 124.51s
+Epoch [8/15] Train Loss: 0.0059, Train Acc: 99.55% | Val Loss: 0.3362, Val Acc: 69.04% | Time: 124.96s
+Epoch [9/15] Train Loss: 0.0075, Train Acc: 99.31% | Val Loss: 0.3351, Val Acc: 70.88% | Time: 125.69s
+Epoch [10/15] Train Loss: 0.0057, Train Acc: 99.60% | Val Loss: 0.3519, Val Acc: 69.30% | Time: 126.03s
+Epoch [11/15] Train Loss: 0.0044, Train Acc: 99.73% | Val Loss: 0.3447, Val Acc: 68.51% | Time: 126.46s
+Epoch [12/15] Train Loss: 0.0046, Train Acc: 99.55% | Val Loss: 0.3645, Val Acc: 68.38% | Time: 127.22s
+Epoch [13/15] Train Loss: 0.0033, Train Acc: 99.68% | Val Loss: 0.3375, Val Acc: 71.54% | Time: 126.09s
+Best model saved with accuracy: 71.54%
+Epoch [14/15] Train Loss: 0.0037, Train Acc: 99.55% | Val Loss: 0.3461, Val Acc: 67.98% | Time: 126.53s
+Epoch [15/15] Train Loss: 0.0033, Train Acc: 99.57% | Val Loss: 0.3644, Val Acc: 67.19% | Time: 127.57s
+Training completed. Best accuracy: 71.54%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 56
+  num_augmentations: 6
+  num_epochs: 15
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-50.0, 50.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=1024, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=1024, out_features=200, bias=True)
+)
+Epoch [1/15] Train Loss: 1.1146, Train Acc: 14.27% | Val Loss: 0.6136, Val Acc: 43.48% | Time: 136.45s
+Best model saved with accuracy: 43.48%
+Epoch [2/15] Train Loss: 0.3179, Train Acc: 68.67% | Val Loss: 0.3256, Val Acc: 64.95% | Time: 145.06s
+Best model saved with accuracy: 64.95%
+Epoch [3/15] Train Loss: 0.0728, Train Acc: 93.42% | Val Loss: 0.3098, Val Acc: 68.51% | Time: 146.28s
+Best model saved with accuracy: 68.51%
+Epoch [4/15] Train Loss: 0.0260, Train Acc: 98.02% | Val Loss: 0.3296, Val Acc: 66.67% | Time: 147.45s
+Epoch [5/15] Train Loss: 0.0144, Train Acc: 98.93% | Val Loss: 0.3313, Val Acc: 67.46% | Time: 147.31s
+Epoch [6/15] Train Loss: 0.0083, Train Acc: 99.44% | Val Loss: 0.2992, Val Acc: 71.01% | Time: 148.21s
+Best model saved with accuracy: 71.01%
+Epoch [7/15] Train Loss: 0.0061, Train Acc: 99.47% | Val Loss: 0.3673, Val Acc: 67.98% | Time: 148.46s
+Epoch [8/15] Train Loss: 0.0067, Train Acc: 99.42% | Val Loss: 0.3393, Val Acc: 69.30% | Time: 148.23s
+Epoch [9/15] Train Loss: 0.0055, Train Acc: 99.51% | Val Loss: 0.3484, Val Acc: 66.80% | Time: 147.38s
+Epoch [10/15] Train Loss: 0.0058, Train Acc: 99.36% | Val Loss: 0.3409, Val Acc: 68.12% | Time: 148.35s
+Epoch [11/15] Train Loss: 0.0055, Train Acc: 99.49% | Val Loss: 0.3254, Val Acc: 70.49% | Time: 147.76s
+Epoch [12/15] Train Loss: 0.0036, Train Acc: 99.69% | Val Loss: 0.3884, Val Acc: 67.59% | Time: 147.80s
+Epoch [13/15] Train Loss: 0.0035, Train Acc: 99.62% | Val Loss: 0.3275, Val Acc: 71.01% | Time: 148.51s
+Epoch [14/15] Train Loss: 0.0032, Train Acc: 99.64% | Val Loss: 0.2947, Val Acc: 74.44% | Time: 148.25s
+Best model saved with accuracy: 74.44%
+Epoch [15/15] Train Loss: 0.0029, Train Acc: 99.64% | Val Loss: 0.3276, Val Acc: 70.22% | Time: 147.79s
+Training completed. Best accuracy: 74.44%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 56
+  num_augmentations: 6
+  num_epochs: 15
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-50.0, 50.0], interpolation=nearest, expand=False, fill=0)
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=1024, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=1024, out_features=200, bias=True)
+)
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 56
+  num_augmentations: 6
+  num_epochs: 15
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-50.0, 50.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=1024, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=1024, out_features=200, bias=True)
+)
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 56
+  num_augmentations: 6
+  num_epochs: 15
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-50.0, 50.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=224, interpolation=bilinear, max_size=None, antialias=True)
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=224, interpolation=bilinear, max_size=None, antialias=True)
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=1024, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=1024, out_features=200, bias=True)
+)
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 56
+  num_augmentations: 6
+  num_epochs: 15
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-50.0, 50.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=[224, 224], interpolation=bilinear, max_size=None, antialias=True)
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=[224, 224], interpolation=bilinear, max_size=None, antialias=True)
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=1024, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=1024, out_features=200, bias=True)
+)
+Epoch [1/15] Train Loss: 1.1098, Train Acc: 15.16% | Val Loss: 0.6399, Val Acc: 40.71% | Time: 127.83s
+Best model saved with accuracy: 40.71%
+Epoch [2/15] Train Loss: 0.3352, Train Acc: 66.89% | Val Loss: 0.3726, Val Acc: 60.21% | Time: 134.32s
+Best model saved with accuracy: 60.21%
+Epoch [3/15] Train Loss: 0.0784, Train Acc: 93.20% | Val Loss: 0.3423, Val Acc: 66.14% | Time: 141.09s
+Best model saved with accuracy: 66.14%
+Epoch [4/15] Train Loss: 0.0278, Train Acc: 97.84% | Val Loss: 0.3669, Val Acc: 64.82% | Time: 142.80s
+Epoch [5/15] Train Loss: 0.0138, Train Acc: 99.18% | Val Loss: 0.3746, Val Acc: 65.74% | Time: 144.95s
+Epoch [6/15] Train Loss: 0.0091, Train Acc: 99.38% | Val Loss: 0.3522, Val Acc: 68.12% | Time: 144.30s
+Best model saved with accuracy: 68.12%
+Epoch [7/15] Train Loss: 0.0065, Train Acc: 99.51% | Val Loss: 0.3797, Val Acc: 64.95% | Time: 145.44s
+Epoch [8/15] Train Loss: 0.0059, Train Acc: 99.51% | Val Loss: 0.3617, Val Acc: 69.70% | Time: 146.90s
+Best model saved with accuracy: 69.70%
+Epoch [9/15] Train Loss: 0.0046, Train Acc: 99.67% | Val Loss: 0.3703, Val Acc: 66.40% | Time: 145.65s
+Epoch [10/15] Train Loss: 0.0035, Train Acc: 99.71% | Val Loss: 0.4089, Val Acc: 65.22% | Time: 146.44s
+Epoch [11/15] Train Loss: 0.0042, Train Acc: 99.58% | Val Loss: 0.4026, Val Acc: 66.01% | Time: 148.33s
+Epoch [12/15] Train Loss: 0.0045, Train Acc: 99.53% | Val Loss: 0.4391, Val Acc: 64.03% | Time: 147.35s
+Epoch [13/15] Train Loss: 0.0050, Train Acc: 99.47% | Val Loss: 0.3860, Val Acc: 65.74% | Time: 148.28s
+Epoch [14/15] Train Loss: 0.0038, Train Acc: 99.67% | Val Loss: 0.3909, Val Acc: 67.59% | Time: 147.71s
+Epoch [15/15] Train Loss: 0.0047, Train Acc: 99.51% | Val Loss: 0.4283, Val Acc: 66.53% | Time: 148.40s
+Training completed. Best accuracy: 69.70%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 56
+  num_augmentations: 6
+  num_epochs: 15
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-50.0, 50.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=1024, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=1024, out_features=200, bias=True)
+)
+Epoch [1/15] Train Loss: 1.1048, Train Acc: 13.89% | Val Loss: 0.5885, Val Acc: 44.80% | Time: 126.62s
+Best model saved with accuracy: 44.80%
+Epoch [2/15] Train Loss: 0.3178, Train Acc: 67.89% | Val Loss: 0.3217, Val Acc: 64.03% | Time: 133.07s
+Best model saved with accuracy: 64.03%
+Epoch [3/15] Train Loss: 0.0716, Train Acc: 93.20% | Val Loss: 0.2953, Val Acc: 69.83% | Time: 141.16s
+Best model saved with accuracy: 69.83%
+Epoch [4/15] Train Loss: 0.0247, Train Acc: 98.11% | Val Loss: 0.3234, Val Acc: 67.06% | Time: 144.84s
+Epoch [5/15] Train Loss: 0.0129, Train Acc: 99.16% | Val Loss: 0.3235, Val Acc: 69.04% | Time: 145.61s
+Epoch [6/15] Train Loss: 0.0081, Train Acc: 99.38% | Val Loss: 0.2983, Val Acc: 71.01% | Time: 147.93s
+Best model saved with accuracy: 71.01%
+Epoch [7/15] Train Loss: 0.0057, Train Acc: 99.58% | Val Loss: 0.3498, Val Acc: 68.12% | Time: 146.48s
+Epoch [8/15] Train Loss: 0.0056, Train Acc: 99.64% | Val Loss: 0.3083, Val Acc: 73.25% | Time: 147.38s
+Best model saved with accuracy: 73.25%
+Epoch [9/15] Train Loss: 0.0043, Train Acc: 99.58% | Val Loss: 0.3323, Val Acc: 70.75% | Time: 147.72s
+Epoch [10/15] Train Loss: 0.0037, Train Acc: 99.62% | Val Loss: 0.3678, Val Acc: 70.49% | Time: 148.35s
+Epoch [11/15] Train Loss: 0.0044, Train Acc: 99.56% | Val Loss: 0.3665, Val Acc: 66.67% | Time: 148.91s
+Epoch [12/15] Train Loss: 0.0055, Train Acc: 99.58% | Val Loss: 0.3847, Val Acc: 66.80% | Time: 149.29s
+Epoch [13/15] Train Loss: 0.0046, Train Acc: 99.60% | Val Loss: 0.3359, Val Acc: 70.22% | Time: 149.29s
+Epoch [14/15] Train Loss: 0.0037, Train Acc: 99.60% | Val Loss: 0.3456, Val Acc: 70.62% | Time: 149.30s
+Epoch [15/15] Train Loss: 0.0041, Train Acc: 99.51% | Val Loss: 0.3749, Val Acc: 69.17% | Time: 149.58s
+Training completed. Best accuracy: 73.25%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 56
+  num_augmentations: 7
+  num_epochs: 15
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-50.0, 50.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=1024, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=1024, out_features=200, bias=True)
+)
+Epoch [1/15] Train Loss: 1.0127, Train Acc: 20.44% | Val Loss: 0.4748, Val Acc: 52.44% | Time: 162.25s
+Best model saved with accuracy: 52.44%
+Epoch [2/15] Train Loss: 0.2190, Train Acc: 78.21% | Val Loss: 0.3095, Val Acc: 64.95% | Time: 170.94s
+Best model saved with accuracy: 64.95%
+Epoch [3/15] Train Loss: 0.0448, Train Acc: 96.27% | Val Loss: 0.2943, Val Acc: 69.30% | Time: 170.07s
+Best model saved with accuracy: 69.30%
+Epoch [4/15] Train Loss: 0.0144, Train Acc: 99.16% | Val Loss: 0.3105, Val Acc: 68.51% | Time: 171.13s
+Epoch [5/15] Train Loss: 0.0092, Train Acc: 99.37% | Val Loss: 0.3055, Val Acc: 70.62% | Time: 170.88s
+Best model saved with accuracy: 70.62%
+Epoch [6/15] Train Loss: 0.0067, Train Acc: 99.47% | Val Loss: 0.3323, Val Acc: 69.57% | Time: 171.49s
+Epoch [7/15] Train Loss: 0.0059, Train Acc: 99.45% | Val Loss: 0.3513, Val Acc: 70.22% | Time: 170.66s
+Epoch [8/15] Train Loss: 0.0044, Train Acc: 99.62% | Val Loss: 0.3288, Val Acc: 70.75% | Time: 172.07s
+Best model saved with accuracy: 70.75%
+Epoch [9/15] Train Loss: 0.0029, Train Acc: 99.81% | Val Loss: 0.3269, Val Acc: 71.81% | Time: 170.95s
+Best model saved with accuracy: 71.81%
+Epoch [10/15] Train Loss: 0.0035, Train Acc: 99.56% | Val Loss: 0.3622, Val Acc: 69.70% | Time: 171.87s
+Epoch [11/15] Train Loss: 0.0043, Train Acc: 99.49% | Val Loss: 0.3642, Val Acc: 68.51% | Time: 171.85s
+Epoch [12/15] Train Loss: 0.0027, Train Acc: 99.71% | Val Loss: 0.3712, Val Acc: 67.72% | Time: 172.23s
+Epoch [13/15] Train Loss: 0.0029, Train Acc: 99.68% | Val Loss: 0.3318, Val Acc: 70.62% | Time: 172.11s
+Epoch [14/15] Train Loss: 0.0053, Train Acc: 99.37% | Val Loss: 0.3813, Val Acc: 66.27% | Time: 172.52s
+Epoch [15/15] Train Loss: 0.0050, Train Acc: 99.47% | Val Loss: 0.3611, Val Acc: 68.91% | Time: 171.29s
+Training completed. Best accuracy: 71.81%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 60
+  num_augmentations: 6
+  num_epochs: 15
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-50.0, 50.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=1024, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=1024, out_features=200, bias=True)
+)
+Epoch [1/15] Train Loss: 1.1284, Train Acc: 13.64% | Val Loss: 0.6387, Val Acc: 40.18% | Time: 134.66s
+Best model saved with accuracy: 40.18%
+Epoch [2/15] Train Loss: 0.3376, Train Acc: 67.84% | Val Loss: 0.3311, Val Acc: 64.03% | Time: 142.05s
+Best model saved with accuracy: 64.03%
+Epoch [3/15] Train Loss: 0.0774, Train Acc: 92.73% | Val Loss: 0.2996, Val Acc: 68.91% | Time: 146.27s
+Best model saved with accuracy: 68.91%
+Epoch [4/15] Train Loss: 0.0246, Train Acc: 98.40% | Val Loss: 0.3052, Val Acc: 69.17% | Time: 148.27s
+Best model saved with accuracy: 69.17%
+Epoch [5/15] Train Loss: 0.0120, Train Acc: 99.16% | Val Loss: 0.3156, Val Acc: 69.57% | Time: 150.10s
+Best model saved with accuracy: 69.57%
+Epoch [6/15] Train Loss: 0.0072, Train Acc: 99.56% | Val Loss: 0.2958, Val Acc: 69.70% | Time: 149.76s
+Best model saved with accuracy: 69.70%
+Epoch [7/15] Train Loss: 0.0059, Train Acc: 99.49% | Val Loss: 0.3725, Val Acc: 66.27% | Time: 150.12s
+Epoch [8/15] Train Loss: 0.0067, Train Acc: 99.38% | Val Loss: 0.3165, Val Acc: 71.94% | Time: 152.08s
+Best model saved with accuracy: 71.94%
+Epoch [9/15] Train Loss: 0.0042, Train Acc: 99.67% | Val Loss: 0.3208, Val Acc: 69.04% | Time: 152.37s
+Epoch [10/15] Train Loss: 0.0042, Train Acc: 99.62% | Val Loss: 0.3556, Val Acc: 68.51% | Time: 151.97s
+Epoch [11/15] Train Loss: 0.0038, Train Acc: 99.62% | Val Loss: 0.3209, Val Acc: 69.70% | Time: 152.31s
+Epoch [12/15] Train Loss: 0.0034, Train Acc: 99.62% | Val Loss: 0.3747, Val Acc: 66.93% | Time: 150.59s
+Epoch [13/15] Train Loss: 0.0036, Train Acc: 99.62% | Val Loss: 0.3405, Val Acc: 66.67% | Time: 151.25s
+Epoch [14/15] Train Loss: 0.0031, Train Acc: 99.67% | Val Loss: 0.3162, Val Acc: 72.86% | Time: 151.07s
+Best model saved with accuracy: 72.86%
+Epoch [15/15] Train Loss: 0.0030, Train Acc: 99.64% | Val Loss: 0.3550, Val Acc: 69.70% | Time: 151.77s
+Training completed. Best accuracy: 72.86%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 60
+  num_augmentations: 6
+  num_epochs: 50
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-50.0, 50.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=1024, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=1024, out_features=200, bias=True)
+)
+Epoch [1/50] Train Loss: 1.1246, Train Acc: 13.56% | Val Loss: 0.6383, Val Acc: 42.42% | Time: 136.73s
+Best model saved with accuracy: 42.42%
+Epoch [2/50] Train Loss: 0.3440, Train Acc: 66.18% | Val Loss: 0.3307, Val Acc: 62.71% | Time: 141.33s
+Best model saved with accuracy: 62.71%
+Epoch [3/50] Train Loss: 0.0811, Train Acc: 92.67% | Val Loss: 0.2927, Val Acc: 68.77% | Time: 148.89s
+Best model saved with accuracy: 68.77%
+Epoch [4/50] Train Loss: 0.0289, Train Acc: 97.82% | Val Loss: 0.3160, Val Acc: 68.91% | Time: 150.12s
+Best model saved with accuracy: 68.91%
+Epoch [5/50] Train Loss: 0.0120, Train Acc: 99.11% | Val Loss: 0.3048, Val Acc: 68.64% | Time: 150.52s
+Epoch [6/50] Train Loss: 0.0092, Train Acc: 99.20% | Val Loss: 0.2840, Val Acc: 71.81% | Time: 151.58s
+Best model saved with accuracy: 71.81%
+Epoch [7/50] Train Loss: 0.0059, Train Acc: 99.62% | Val Loss: 0.3320, Val Acc: 70.22% | Time: 151.34s
+Epoch [8/50] Train Loss: 0.0063, Train Acc: 99.53% | Val Loss: 0.3331, Val Acc: 69.30% | Time: 151.81s
+Epoch [9/50] Train Loss: 0.0042, Train Acc: 99.71% | Val Loss: 0.3211, Val Acc: 69.17% | Time: 151.98s
+Epoch [10/50] Train Loss: 0.0052, Train Acc: 99.47% | Val Loss: 0.3536, Val Acc: 68.77% | Time: 152.27s
+Epoch [11/50] Train Loss: 0.0041, Train Acc: 99.56% | Val Loss: 0.3329, Val Acc: 68.91% | Time: 151.68s
+Epoch [12/50] Train Loss: 0.0034, Train Acc: 99.69% | Val Loss: 0.3726, Val Acc: 66.67% | Time: 152.78s
+Epoch [13/50] Train Loss: 0.0033, Train Acc: 99.60% | Val Loss: 0.3341, Val Acc: 71.41% | Time: 152.04s
+Epoch [14/50] Train Loss: 0.0029, Train Acc: 99.76% | Val Loss: 0.3498, Val Acc: 69.83% | Time: 152.18s
+Epoch [15/50] Train Loss: 0.0032, Train Acc: 99.67% | Val Loss: 0.3685, Val Acc: 70.36% | Time: 151.01s
+Epoch [16/50] Train Loss: 0.0029, Train Acc: 99.71% | Val Loss: 0.3896, Val Acc: 66.67% | Time: 151.70s
+Epoch [17/50] Train Loss: 0.0035, Train Acc: 99.58% | Val Loss: 0.3737, Val Acc: 67.85% | Time: 154.29s
+Epoch [18/50] Train Loss: 0.0054, Train Acc: 99.42% | Val Loss: 0.3821, Val Acc: 64.43% | Time: 153.43s
+Epoch [19/50] Train Loss: 0.0050, Train Acc: 99.31% | Val Loss: 0.4710, Val Acc: 64.69% | Time: 152.86s
+Epoch [20/50] Train Loss: 0.0045, Train Acc: 99.51% | Val Loss: 0.4233, Val Acc: 66.01% | Time: 153.43s
+Epoch [21/50] Train Loss: 0.0049, Train Acc: 99.44% | Val Loss: 0.3985, Val Acc: 67.85% | Time: 153.52s
+Epoch [22/50] Train Loss: 0.0026, Train Acc: 99.67% | Val Loss: 0.3758, Val Acc: 68.77% | Time: 153.15s
+Epoch [23/50] Train Loss: 0.0033, Train Acc: 99.53% | Val Loss: 0.4056, Val Acc: 65.88% | Time: 154.22s
+Epoch [24/50] Train Loss: 0.0021, Train Acc: 99.73% | Val Loss: 0.4231, Val Acc: 67.85% | Time: 153.23s
+Epoch [25/50] Train Loss: 0.0025, Train Acc: 99.73% | Val Loss: 0.3900, Val Acc: 67.98% | Time: 152.66s
+Epoch [26/50] Train Loss: 0.0032, Train Acc: 99.60% | Val Loss: 0.3719, Val Acc: 68.38% | Time: 152.47s
+Epoch [27/50] Train Loss: 0.0019, Train Acc: 99.78% | Val Loss: 0.4459, Val Acc: 66.01% | Time: 152.28s
+Epoch [28/50] Train Loss: 0.0041, Train Acc: 99.38% | Val Loss: 0.3711, Val Acc: 69.83% | Time: 152.41s
+Epoch [29/50] Train Loss: 0.0028, Train Acc: 99.60% | Val Loss: 0.4173, Val Acc: 68.51% | Time: 154.78s
+Epoch [30/50] Train Loss: 0.0028, Train Acc: 99.69% | Val Loss: 0.4227, Val Acc: 65.22% | Time: 154.45s
+Epoch [31/50] Train Loss: 0.0037, Train Acc: 99.49% | Val Loss: 0.4326, Val Acc: 66.40% | Time: 154.68s
+Epoch [32/50] Train Loss: 0.0023, Train Acc: 99.73% | Val Loss: 0.4307, Val Acc: 66.93% | Time: 154.03s
+Epoch [33/50] Train Loss: 0.0026, Train Acc: 99.60% | Val Loss: 0.3890, Val Acc: 69.04% | Time: 154.63s
+Epoch [34/50] Train Loss: 0.0017, Train Acc: 99.76% | Val Loss: 0.4009, Val Acc: 69.17% | Time: 150.87s
+Epoch [35/50] Train Loss: 0.0030, Train Acc: 99.56% | Val Loss: 0.3993, Val Acc: 70.09% | Time: 153.26s
+Epoch [36/50] Train Loss: 0.0025, Train Acc: 99.69% | Val Loss: 0.4032, Val Acc: 68.77% | Time: 155.22s
+Epoch [37/50] Train Loss: 0.0030, Train Acc: 99.58% | Val Loss: 0.4069, Val Acc: 67.33% | Time: 153.90s
+Epoch [38/50] Train Loss: 0.0029, Train Acc: 99.60% | Val Loss: 0.4378, Val Acc: 69.04% | Time: 154.29s
+Epoch [39/50] Train Loss: 0.0028, Train Acc: 99.58% | Val Loss: 0.4603, Val Acc: 63.64% | Time: 154.01s
+Epoch [40/50] Train Loss: 0.0048, Train Acc: 99.42% | Val Loss: 0.4512, Val Acc: 67.06% | Time: 154.11s
+Epoch [41/50] Train Loss: 0.0031, Train Acc: 99.56% | Val Loss: 0.4371, Val Acc: 66.27% | Time: 154.39s
+Epoch [42/50] Train Loss: 0.0043, Train Acc: 99.36% | Val Loss: 0.4203, Val Acc: 66.67% | Time: 155.68s
+Epoch [43/50] Train Loss: 0.0017, Train Acc: 99.76% | Val Loss: 0.4328, Val Acc: 66.27% | Time: 153.96s
+Epoch [44/50] Train Loss: 0.0044, Train Acc: 99.44% | Val Loss: 0.4528, Val Acc: 66.80% | Time: 154.98s
+Epoch [45/50] Train Loss: 0.0020, Train Acc: 99.64% | Val Loss: 0.4379, Val Acc: 67.72% | Time: 151.82s
+Epoch [46/50] Train Loss: 0.0022, Train Acc: 99.64% | Val Loss: 0.4438, Val Acc: 67.59% | Time: 153.50s
+Epoch [47/50] Train Loss: 0.0015, Train Acc: 99.80% | Val Loss: 0.4213, Val Acc: 67.19% | Time: 153.54s
+Epoch [48/50] Train Loss: 0.0010, Train Acc: 99.82% | Val Loss: 0.3994, Val Acc: 68.91% | Time: 154.02s
+Epoch [49/50] Train Loss: 0.0023, Train Acc: 99.69% | Val Loss: 0.4288, Val Acc: 66.80% | Time: 155.21s
+Epoch [50/50] Train Loss: 0.0017, Train Acc: 99.67% | Val Loss: 0.3967, Val Acc: 68.91% | Time: 154.86s
+Training completed. Best accuracy: 71.81%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  batch_size: 60
+  num_augmentations: 5
+  num_epochs: 15
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-50.0, 50.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=1024, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=1024, out_features=200, bias=True)
+)
+Epoch [1/15] Train Loss: 1.2002, Train Acc: 10.43% | Val Loss: 0.8228, Val Acc: 27.27% | Time: 116.91s
+Best model saved with accuracy: 27.27%
+Epoch [2/15] Train Loss: 0.5044, Train Acc: 52.75% | Val Loss: 0.3832, Val Acc: 59.03% | Time: 118.11s
+Best model saved with accuracy: 59.03%
+Epoch [3/15] Train Loss: 0.1476, Train Acc: 85.36% | Val Loss: 0.3047, Val Acc: 64.69% | Time: 121.27s
+Best model saved with accuracy: 64.69%
+Epoch [4/15] Train Loss: 0.0490, Train Acc: 96.21% | Val Loss: 0.3250, Val Acc: 66.67% | Time: 122.72s
+Best model saved with accuracy: 66.67%
+Epoch [5/15] Train Loss: 0.0209, Train Acc: 98.51% | Val Loss: 0.3222, Val Acc: 67.98% | Time: 123.50s
+Best model saved with accuracy: 67.98%
+Epoch [6/15] Train Loss: 0.0128, Train Acc: 99.20% | Val Loss: 0.2953, Val Acc: 70.36% | Time: 124.22s
+Best model saved with accuracy: 70.36%
+Epoch [7/15] Train Loss: 0.0083, Train Acc: 99.52% | Val Loss: 0.3369, Val Acc: 69.04% | Time: 125.48s
+Epoch [8/15] Train Loss: 0.0055, Train Acc: 99.60% | Val Loss: 0.3202, Val Acc: 70.36% | Time: 125.22s
+Epoch [9/15] Train Loss: 0.0054, Train Acc: 99.60% | Val Loss: 0.3384, Val Acc: 67.59% | Time: 125.86s
+Epoch [10/15] Train Loss: 0.0044, Train Acc: 99.63% | Val Loss: 0.3572, Val Acc: 68.38% | Time: 125.29s
+Epoch [11/15] Train Loss: 0.0046, Train Acc: 99.60% | Val Loss: 0.3275, Val Acc: 71.01% | Time: 126.51s
+Best model saved with accuracy: 71.01%
+Epoch [12/15] Train Loss: 0.0055, Train Acc: 99.55% | Val Loss: 0.3800, Val Acc: 67.59% | Time: 126.23s
+Epoch [13/15] Train Loss: 0.0036, Train Acc: 99.71% | Val Loss: 0.3466, Val Acc: 68.64% | Time: 126.66s
+Epoch [14/15] Train Loss: 0.0035, Train Acc: 99.71% | Val Loss: 0.3560, Val Acc: 69.04% | Time: 127.85s
+Epoch [15/15] Train Loss: 0.0038, Train Acc: 99.60% | Val Loss: 0.3578, Val Acc: 68.64% | Time: 127.70s
+Training completed. Best accuracy: 71.01%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  class_names: /home/feem/Workspace/caltech_birds/lists/classes.txt
+  batch_size: 60
+  num_augmentations: 6
+  num_epochs: 15
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-50.0, 50.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=1024, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=1024, out_features=200, bias=True)
+)
+Epoch [1/15] Train Loss: 1.1276, Train Acc: 13.98% | Val Loss: 0.6361, Val Acc: 40.05% | Time: 133.86s
+Best model saved with accuracy: 40.05%
+Epoch [2/15] Train Loss: 0.3511, Train Acc: 65.49% | Val Loss: 0.3316, Val Acc: 62.58% | Time: 135.54s
+Best model saved with accuracy: 62.58%
+Epoch [3/15] Train Loss: 0.0777, Train Acc: 93.24% | Val Loss: 0.2979, Val Acc: 68.51% | Time: 138.26s
+Best model saved with accuracy: 68.51%
+Epoch [4/15] Train Loss: 0.0262, Train Acc: 97.73% | Val Loss: 0.3254, Val Acc: 68.25% | Time: 140.11s
+Epoch [5/15] Train Loss: 0.0129, Train Acc: 99.04% | Val Loss: 0.3196, Val Acc: 70.22% | Time: 140.44s
+Best model saved with accuracy: 70.22%
+Epoch [6/15] Train Loss: 0.0078, Train Acc: 99.56% | Val Loss: 0.3003, Val Acc: 70.49% | Time: 141.75s
+Best model saved with accuracy: 70.49%
+Epoch [7/15] Train Loss: 0.0050, Train Acc: 99.60% | Val Loss: 0.3483, Val Acc: 67.72% | Time: 140.69s
+Epoch [8/15] Train Loss: 0.0045, Train Acc: 99.56% | Val Loss: 0.3201, Val Acc: 69.17% | Time: 142.21s
+Epoch [9/15] Train Loss: 0.0046, Train Acc: 99.58% | Val Loss: 0.3285, Val Acc: 70.75% | Time: 141.71s
+Best model saved with accuracy: 70.75%
+Epoch [10/15] Train Loss: 0.0038, Train Acc: 99.69% | Val Loss: 0.3967, Val Acc: 66.80% | Time: 142.04s
+Epoch [11/15] Train Loss: 0.0037, Train Acc: 99.56% | Val Loss: 0.3402, Val Acc: 71.15% | Time: 143.60s
+Best model saved with accuracy: 71.15%
+Epoch [12/15] Train Loss: 0.0044, Train Acc: 99.51% | Val Loss: 0.3699, Val Acc: 68.12% | Time: 142.92s
+Epoch [13/15] Train Loss: 0.0037, Train Acc: 99.58% | Val Loss: 0.3263, Val Acc: 71.01% | Time: 143.37s
+Epoch [14/15] Train Loss: 0.0047, Train Acc: 99.51% | Val Loss: 0.3856, Val Acc: 66.53% | Time: 142.75s
+Epoch [15/15] Train Loss: 0.0063, Train Acc: 99.20% | Val Loss: 0.3647, Val Acc: 67.33% | Time: 142.51s
+Training completed. Best accuracy: 71.15%
+Configuration:
+  root_dir: /home/feem/Workspace/caltech_birds/images/
+  train_txt: /home/feem/Workspace/caltech_birds/lists/train.txt
+  test_txt: /home/feem/Workspace/caltech_birds/lists/test.txt
+  class_names: /home/feem/Workspace/caltech_birds/lists/classes.txt
+  batch_size: 56
+  num_augmentations: 6
+  num_epochs: 15
+  learning_rate: 0.0001
+  pretrained: True
+  freeze: False
+  scheduled_unfreeze: False
+
+Compose(
+    RandomHorizontalFlip(p=0.5)
+    ColorJitter(brightness=(0.8, 1.2), contrast=(0.8, 1.2), saturation=(0.8, 1.2), hue=(-0.1, 0.1))
+    RandomRotation(degrees=[-50.0, 50.0], interpolation=nearest, expand=False, fill=0)
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Compose(
+    Resize(size=256, interpolation=bilinear, max_size=None, antialias=True)
+    CenterCrop(size=(224, 224))
+    ToTensor()
+    Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+)
+Sequential(
+  (0): Linear(in_features=2048, out_features=1024, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=1024, out_features=200, bias=True)
+)
+Epoch [1/15] Train Loss: 1.1126, Train Acc: 13.98% | Val Loss: 0.6178, Val Acc: 42.16% | Time: 127.56s
+Best model saved with accuracy: 42.16%
+Epoch [2/15] Train Loss: 0.3312, Train Acc: 66.93% | Val Loss: 0.3208, Val Acc: 64.03% | Time: 135.01s
+Best model saved with accuracy: 64.03%
+Epoch [3/15] Train Loss: 0.0766, Train Acc: 92.76% | Val Loss: 0.3066, Val Acc: 67.33% | Time: 138.94s
+Best model saved with accuracy: 67.33%
+Epoch [4/15] Train Loss: 0.0258, Train Acc: 98.04% | Val Loss: 0.3077, Val Acc: 69.04% | Time: 141.55s
+Best model saved with accuracy: 69.04%
+Epoch [5/15] Train Loss: 0.0138, Train Acc: 99.07% | Val Loss: 0.3251, Val Acc: 70.88% | Time: 141.58s
+Best model saved with accuracy: 70.88%
+Epoch [6/15] Train Loss: 0.0085, Train Acc: 99.36% | Val Loss: 0.2912, Val Acc: 72.33% | Time: 144.03s
+Best model saved with accuracy: 72.33%
+Epoch [7/15] Train Loss: 0.0069, Train Acc: 99.44% | Val Loss: 0.3654, Val Acc: 64.69% | Time: 143.34s
+Epoch [8/15] Train Loss: 0.0059, Train Acc: 99.49% | Val Loss: 0.3298, Val Acc: 70.88% | Time: 142.68s
+Epoch [9/15] Train Loss: 0.0060, Train Acc: 99.60% | Val Loss: 0.3057, Val Acc: 72.20% | Time: 144.22s
+Epoch [10/15] Train Loss: 0.0036, Train Acc: 99.64% | Val Loss: 0.3422, Val Acc: 69.83% | Time: 143.82s
+Epoch [11/15] Train Loss: 0.0046, Train Acc: 99.56% | Val Loss: 0.3252, Val Acc: 70.49% | Time: 143.19s
+Epoch [12/15] Train Loss: 0.0041, Train Acc: 99.62% | Val Loss: 0.3771, Val Acc: 69.04% | Time: 143.73s
+Epoch [13/15] Train Loss: 0.0034, Train Acc: 99.56% | Val Loss: 0.3384, Val Acc: 71.15% | Time: 144.69s
+Epoch [14/15] Train Loss: 0.0043, Train Acc: 99.60% | Val Loss: 0.3391, Val Acc: 69.83% | Time: 145.68s
+Epoch [15/15] Train Loss: 0.0038, Train Acc: 99.56% | Val Loss: 0.3519, Val Acc: 70.49% | Time: 144.25s
+Training completed. Best accuracy: 72.33%

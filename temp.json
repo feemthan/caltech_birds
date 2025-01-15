@@ -1,0 +1,13 @@
+{
+    "root_dir": "/home/feem/Workspace/caltech_birds/images/",
+    "train_txt":"/home/feem/Workspace/caltech_birds/lists/train.txt",
+    "test_txt": "/home/feem/Workspace/caltech_birds/lists/test.txt",
+    "class_names": "/home/feem/Workspace/caltech_birds/lists/classes.txt",
+    "batch_size": 60,
+    "num_augmentations": 5,
+    "num_epochs": 15,
+    "learning_rate": 1e-4,
+    "pretrained": true,
+    "freeze": false,
+    "scheduled_unfreeze": false
+}
