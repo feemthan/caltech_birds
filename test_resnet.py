@@ -152,7 +152,7 @@ def main(config):
     test_loader = DataLoader(test_dataset, batch_size=config['batch_size'], shuffle=False, num_workers=4)
 
     model = create_model()
-    model.load_state_dict(torch.load('resnet152_caltech200_72.pth', map_location=device))
+    model.load_state_dict(torch.load('final_resnet152_caltech200_72.pth', map_location=device))
     model = model.to(device)
     model.eval()
 
@@ -174,6 +174,7 @@ def main(config):
     print("Confusion matrix saved as 'confusion_matrix.png'")
 
     # Calculate 2x2 confusion matrix
+    import pdb; pdb.set_trace()
     tp = np.sum(np.diag(cm))
     fn = np.sum(cm) - tp
     fp = fn  # In a multiclass setting, FP = FN
