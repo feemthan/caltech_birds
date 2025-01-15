@@ -10,4 +10,4 @@
 
 **MisClassified Examples**
 
-![Features Image](misclassified_example.png)
+![Features Image](misclassified_examples.png)
